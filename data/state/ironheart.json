@@ -1,23 +1,24 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 6,
-    "page": 22,
-    "pages_walked": 30,
+    "node_index": 7,
+    "page": 14,
+    "pages_walked": 45,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-08T17:36:11Z",
+  "last_attempt_at": "2026-11-08T22:24:23Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-08T17:37:56Z",
+    "at": "2026-11-08T22:26:08Z",
     "new_posts": 119,
-    "new_threads": 376,
+    "new_threads": 387,
     "requests": 36,
-    "updated_threads": 183
+    "updated_threads": 160
   },
-  "last_success_at": "2026-11-08T17:37:56Z",
+  "last_success_at": "2026-11-08T22:26:08Z",
   "nodes": {
     "10": {
+      "backfill_page": 13,
       "estimate_exact": true,
       "estimated_threads": 633,
       "name": "Shirting",
@@ -36,7 +37,8 @@
     "11": {
       "estimate_exact": true,
       "estimated_threads": 380,
-      "name": "Jackets"
+      "name": "Jackets",
+      "pages": 19
     },
     "110": {
       "estimate_exact": true,
@@ -424,7 +426,8 @@
     "41": {
       "estimate_exact": true,
       "estimated_threads": 65,
-      "name": "Vests"
+      "name": "Vests",
+      "pages": 4
     },
     "44": {
       "estimate_exact": true,
@@ -643,7 +646,9 @@
       "name": "Spring Summer 2019 › SS19 - Cut & Sewn"
     },
     "9": {
-      "backfill_page": 21,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T22:25:11Z",
+      "backfill_page": 23,
       "estimate_exact": true,
       "estimated_threads": 447,
       "name": "Bottoms",
@@ -697,19 +702,35 @@
   },
   "posts": {
     "ironheart:103": {
-      "fetched_at": "2026-11-08T17:37:44Z",
+      "fetched_at": "2026-11-08T22:25:56Z",
       "page_count": 1042,
       "pages": [
         1,
-        2
+        2,
+        3
+      ]
+    },
+    "ironheart:12509": {
+      "fetched_at": "2026-11-08T22:26:08Z",
+      "page_count": 17,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:15734": {
+      "fetched_at": "2026-11-08T22:25:53Z",
+      "page_count": 2,
+      "pages": [
+        1
       ]
     },
     "ironheart:16": {
-      "fetched_at": "2026-11-08T17:37:50Z",
+      "fetched_at": "2026-11-08T22:26:02Z",
       "page_count": 793,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:17474": {
@@ -719,12 +740,20 @@
         1
       ]
     },
+    "ironheart:17505": {
+      "fetched_at": "2026-11-08T22:26:05Z",
+      "page_count": 19,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:18582": {
-      "fetched_at": "2026-11-08T17:37:56Z",
+      "fetched_at": "2026-11-08T22:25:59Z",
       "page_count": 337,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:20391": {
@@ -757,9 +786,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-08T17:36:17Z",
+  "recent_refreshed_at": "2026-11-08T22:24:29Z",
   "status": "ok",
   "top": {
-    "cursor": 48
+    "cursor": 60
   }
 }
