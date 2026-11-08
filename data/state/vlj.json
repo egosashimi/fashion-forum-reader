@@ -1,0 +1,107 @@
+{
+  "backfill": {
+    "cycle": 1,
+    "node_index": 0,
+    "page": 25,
+    "pages_walked": 24,
+    "started_at": "2026-11-08T17:19:21Z"
+  },
+  "last_attempt_at": "2026-11-08T17:33:56Z",
+  "last_error": null,
+  "last_run": {
+    "at": "2026-11-08T17:36:11Z",
+    "new_posts": 104,
+    "new_threads": 370,
+    "requests": 46,
+    "updated_threads": 433
+  },
+  "last_success_at": "2026-11-08T17:36:11Z",
+  "nodes": {
+    "foreign-flight-jackets.12": {
+      "estimate_exact": false,
+      "estimated_threads": 120,
+      "name": "Foreign Flight Jackets",
+      "pages": 6
+    },
+    "general-flight-jacket-discussion.5": {
+      "backfill_page": 24,
+      "estimate_exact": false,
+      "estimated_threads": 3720,
+      "name": "General Flight Jacket Discussion",
+      "pages": 186
+    },
+    "repros.8": {
+      "estimate_exact": false,
+      "estimated_threads": 2800,
+      "name": "Repros",
+      "pages": 140
+    },
+    "vintage.7": {
+      "estimate_exact": false,
+      "estimated_threads": 2240,
+      "name": "Vintage",
+      "pages": 112
+    }
+  },
+  "posts": {
+    "vlj:20971": {
+      "fetched_at": "2026-11-08T17:36:05Z",
+      "page_count": 161,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:262": {
+      "fetched_at": "2026-11-08T17:35:56Z",
+      "page_count": 2098,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:26448": {
+      "fetched_at": "2026-11-08T17:35:59Z",
+      "page_count": 260,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:26618": {
+      "fetched_at": "2026-11-08T17:36:08Z",
+      "page_count": 135,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:31489": {
+      "fetched_at": "2026-11-08T17:36:02Z",
+      "page_count": 76,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:43172": {
+      "fetched_at": "2026-11-08T17:36:11Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:43174": {
+      "fetched_at": "2026-11-08T17:20:00Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    }
+  },
+  "recent_refreshed_at": "2026-11-08T17:34:41Z",
+  "status": "ok",
+  "top": {
+    "cursor": 24
+  }
+}
