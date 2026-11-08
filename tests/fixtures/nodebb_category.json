@@ -1,0 +1,212 @@
+{
+ "cid": 9,
+ "name": "Bottoms",
+ "topic_count": 447,
+ "totalTopicCount": 447,
+ "topics": [
+  {
+   "cid": 9,
+   "lastposttime": 1471344728000,
+   "mainPid": 5618,
+   "pinned": 1,
+   "postcount": 2,
+   "slug": "5618/video-how-to-measure-jeans-and-pants-the-iron-heart-method",
+   "tid": 5618,
+   "timestamp": 1469637434000,
+   "title": "VIDEO - How To Measure Jeans and Pants - The Iron Heart Method",
+   "uid": 2,
+   "viewcount": 16765,
+   "locked": 0,
+   "deleted": 0,
+   "titleRaw": "VIDEO - How To Measure Jeans and Pants - The Iron Heart Method",
+   "timestampISO": "2016-07-27T16:37:14.000Z",
+   "lastposttimeISO": "2016-08-16T10:52:08.000Z",
+   "tags": [],
+   "category": {
+    "cid": 9,
+    "name": "Bottoms",
+    "slug": "9/bottoms",
+    "icon": "fa-comment",
+    "backgroundImage": "",
+    "imageClass": "cover",
+    "bgColor": "#BA8BAF",
+    "color": "#FFFFFF",
+    "disabled": 0
+   },
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   },
+   "teaser": {
+    "pid": 440400,
+    "timestampISO": "2016-08-16T10:52:08.000Z",
+    "index": 2
+   }
+  },
+  {
+   "cid": 9,
+   "lastposttime": 1790191792104,
+   "mainPid": 5207,
+   "pinned": 1,
+   "postcount": 44,
+   "slug": "5207/our-cuts",
+   "tid": 5207,
+   "timestamp": 1455802028000,
+   "title": "Our Cuts",
+   "uid": 2,
+   "viewcount": 44579,
+   "locked": 0,
+   "deleted": 0,
+   "titleRaw": "Our Cuts",
+   "timestampISO": "2016-02-18T13:27:08.000Z",
+   "lastposttimeISO": "2026-09-23T19:29:52.104Z",
+   "tags": [],
+   "category": {
+    "cid": 9,
+    "name": "Bottoms",
+    "slug": "9/bottoms",
+    "icon": "fa-comment",
+    "backgroundImage": "",
+    "imageClass": "cover",
+    "bgColor": "#BA8BAF",
+    "color": "#FFFFFF",
+    "disabled": 0
+   },
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   },
+   "teaser": {
+    "pid": 988170,
+    "timestampISO": "2026-09-23T19:29:52.104Z",
+    "index": 44
+   }
+  },
+  {
+   "cid": 9,
+   "lastposttime": 1326802780000,
+   "mainPid": 1314,
+   "pinned": 1,
+   "postcount": 1,
+   "slug": "1314/iron-heart-product-care-guidelines",
+   "tid": 1314,
+   "timestamp": 1326802780000,
+   "title": "Iron Heart Product Care Guidelines",
+   "uid": 2,
+   "viewcount": 25887,
+   "locked": 1,
+   "deleted": 0,
+   "titleRaw": "Iron Heart Product Care Guidelines",
+   "timestampISO": "2012-01-17T12:19:40.000Z",
+   "lastposttimeISO": "2012-01-17T12:19:40.000Z",
+   "tags": [],
+   "category": {
+    "cid": 9,
+    "name": "Bottoms",
+    "slug": "9/bottoms",
+    "icon": "fa-comment",
+    "backgroundImage": "",
+    "imageClass": "cover",
+    "bgColor": "#BA8BAF",
+    "color": "#FFFFFF",
+    "disabled": 0
+   },
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   }
+  },
+  {
+   "cid": 9,
+   "lastposttime": 1453209811000,
+   "mainPid": 926,
+   "pinned": 1,
+   "postcount": 3,
+   "slug": "926/want-us-to-email-you-when-a-new-product-arrives",
+   "tid": 926,
+   "timestamp": 1314796848000,
+   "title": "Want us to email you when a new product arrives?",
+   "uid": 2,
+   "viewcount": 19597,
+   "locked": 0,
+   "deleted": 0,
+   "titleRaw": "Want us to email you when a new product arrives?",
+   "timestampISO": "2011-08-31T13:20:48.000Z",
+   "lastposttimeISO": "2016-01-19T13:23:31.000Z",
+   "tags": [],
+   "category": {
+    "cid": 9,
+    "name": "Bottoms",
+    "slug": "9/bottoms",
+    "icon": "fa-comment",
+    "backgroundImage": "",
+    "imageClass": "cover",
+    "bgColor": "#BA8BAF",
+    "color": "#FFFFFF",
+    "disabled": 0
+   },
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   },
+   "teaser": {
+    "pid": 413701,
+    "timestampISO": "2016-01-19T13:23:31.000Z",
+    "index": 3
+   }
+  },
+  {
+   "cid": 9,
+   "lastposttime": 1793577190046,
+   "mainPid": 934,
+   "pinned": 0,
+   "postcount": 4600,
+   "slug": "934/ih-666-xhs-25oz-selvedge-denim-slim-straight-cut-jeans-indigo",
+   "tid": 934,
+   "timestamp": 1314943534000,
+   "title": "IH-666-XHS - 25oz Selvedge Denim Slim Straight Cut Jeans - Indigo",
+   "uid": 2,
+   "viewcount": 2200078,
+   "locked": 0,
+   "deleted": 0,
+   "titleRaw": "IH-666-XHS - 25oz Selvedge Denim Slim Straight Cut Jeans - Indigo",
+   "timestampISO": "2011-09-02T06:05:34.000Z",
+   "lastposttimeISO": "2026-11-01T23:53:10.046Z",
+   "tags": [],
+   "category": {
+    "cid": 9,
+    "name": "Bottoms",
+    "slug": "9/bottoms",
+    "icon": "fa-comment",
+    "backgroundImage": "",
+    "imageClass": "cover",
+    "bgColor": "#BA8BAF",
+    "color": "#FFFFFF",
+    "disabled": 0
+   },
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   },
+   "teaser": {
+    "pid": 994510,
+    "timestampISO": "2026-11-01T23:53:10.046Z",
+    "index": 4600
+   }
+  }
+ ],
+ "pagination": {
+  "currentPage": 1,
+  "pageCount": 23
+ }
+}

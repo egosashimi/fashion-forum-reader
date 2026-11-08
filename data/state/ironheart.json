@@ -1,0 +1,765 @@
+{
+  "backfill": {
+    "cycle": 1,
+    "node_index": 6,
+    "page": 22,
+    "pages_walked": 30,
+    "started_at": "2026-11-08T17:20:57Z"
+  },
+  "last_attempt_at": "2026-11-08T17:36:11Z",
+  "last_error": null,
+  "last_run": {
+    "at": "2026-11-08T17:37:56Z",
+    "new_posts": 119,
+    "new_threads": 376,
+    "requests": 36,
+    "updated_threads": 183
+  },
+  "last_success_at": "2026-11-08T17:37:56Z",
+  "nodes": {
+    "10": {
+      "estimate_exact": true,
+      "estimated_threads": 633,
+      "name": "Shirting",
+      "pages": 32
+    },
+    "108": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Spring Summer 2020"
+    },
+    "109": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Spring Summer 2020 › SS20 - Jackets"
+    },
+    "11": {
+      "estimate_exact": true,
+      "estimated_threads": 380,
+      "name": "Jackets"
+    },
+    "110": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Spring Summer 2020 › SS20 - Knits & Sweats"
+    },
+    "111": {
+      "estimate_exact": true,
+      "estimated_threads": 19,
+      "name": "Spring Summer 2020 › SS20 - Shirting"
+    },
+    "112": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Spring Summer 2020 › SS20 - Bottoms"
+    },
+    "113": {
+      "estimate_exact": true,
+      "estimated_threads": 3,
+      "name": "Past Seasons Collections › Fall Winter 2020"
+    },
+    "114": {
+      "estimate_exact": true,
+      "estimated_threads": 14,
+      "name": "Fall Winter 2020 › FW20 - Bottoms"
+    },
+    "115": {
+      "estimate_exact": true,
+      "estimated_threads": 17,
+      "name": "Fall Winter 2020 › FW20 - Shirting"
+    },
+    "116": {
+      "estimate_exact": true,
+      "estimated_threads": 3,
+      "name": "Fall Winter 2020 › FW20 - Vests"
+    },
+    "117": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Fall Winter 2020 › FW20 - Jackets"
+    },
+    "118": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Fall Winter 2020 › FW20 - Knits & Sweats"
+    },
+    "12": {
+      "estimate_exact": true,
+      "estimated_threads": 433,
+      "name": "Cut & Sewn"
+    },
+    "121": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Past Seasons Collections › Spring Summer 2021"
+    },
+    "123": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Past Seasons Collections › Fall Winter 2021"
+    },
+    "124": {
+      "estimate_exact": true,
+      "estimated_threads": 5,
+      "name": "Fall Winter 2021 - Jackets"
+    },
+    "125": {
+      "estimate_exact": true,
+      "estimated_threads": 3,
+      "name": "Fall Winter 2021 - Vests"
+    },
+    "127": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Fall Winter 2021 - Knits & Sweats"
+    },
+    "128": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Past Seasons Collections › Spring Summer 2022"
+    },
+    "129": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Spring Summer 2022 - Bottoms"
+    },
+    "13": {
+      "estimate_exact": true,
+      "estimated_threads": 175,
+      "name": "Hardware"
+    },
+    "130": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Spring Summer 2022 - Shirts"
+    },
+    "131": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring Summer 2022 - Jackets"
+    },
+    "132": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring Summer 2022 - Knits & Sweats"
+    },
+    "133": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Spring Summer 2022 - Vests"
+    },
+    "136": {
+      "estimate_exact": true,
+      "estimated_threads": 23,
+      "name": "Iron Cast"
+    },
+    "137": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Fall/Winter 2022"
+    },
+    "138": {
+      "estimate_exact": true,
+      "estimated_threads": 10,
+      "name": "Fall/Winter 2022 - Jackets"
+    },
+    "141": {
+      "estimate_exact": true,
+      "estimated_threads": 47,
+      "name": "SaturdayTypeFever"
+    },
+    "142": {
+      "estimate_exact": true,
+      "estimated_threads": 71,
+      "name": "Porter - Yoshida & Co."
+    },
+    "143": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Past Seasons Collections › Spring/Summer 2023"
+    },
+    "145": {
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "Spring/Summer 2023 - Shirts"
+    },
+    "146": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Spring/Summer 2023 - Bottoms"
+    },
+    "148": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:03Z",
+      "backfill_page": 2,
+      "estimate_exact": true,
+      "estimated_threads": 24,
+      "name": "New Forum Frequently Asked Questions",
+      "pages": 2
+    },
+    "149": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:12Z",
+      "backfill_page": 1,
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Iron Heart Products",
+      "pages": 1
+    },
+    "150": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "General Stuff"
+    },
+    "153": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Iron Heart Information"
+    },
+    "154": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Other Brands, Footwear and Accessories"
+    },
+    "16": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "City Guides"
+    },
+    "161": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Fall/Winter 2023"
+    },
+    "166": {
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "Project RE:LOVE and The Outlet"
+    },
+    "167": {
+      "estimate_exact": true,
+      "estimated_threads": 19,
+      "name": "Future and Planned Products › Non Seasonal Product Preview"
+    },
+    "17": {
+      "estimate_exact": true,
+      "estimated_threads": 31,
+      "name": "City Guides › USA"
+    },
+    "173": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Past Seasons Collections › Spring/Summer 2024"
+    },
+    "174": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring/Summer 2024 - Shirts"
+    },
+    "18": {
+      "estimate_exact": true,
+      "estimated_threads": 5,
+      "name": "City Guides › Canada"
+    },
+    "19": {
+      "estimate_exact": true,
+      "estimated_threads": 37,
+      "name": "City Guides › Europe"
+    },
+    "197": {
+      "estimate_exact": true,
+      "estimated_threads": 5,
+      "name": "Utilitees"
+    },
+    "198": {
+      "estimate_exact": true,
+      "estimated_threads": 16,
+      "name": "Decka"
+    },
+    "199": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Fall/Winter 2024"
+    },
+    "2": {
+      "estimate_exact": true,
+      "estimated_threads": 153,
+      "name": "News"
+    },
+    "20": {
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "City Guides › Japan"
+    },
+    "200": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Fall/Winter 2024 - Jackets"
+    },
+    "203": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Fall/Winter 2024 - Knits & Sweats"
+    },
+    "205": {
+      "estimate_exact": true,
+      "estimated_threads": 18,
+      "name": "ROTOTO"
+    },
+    "21": {
+      "estimate_exact": true,
+      "estimated_threads": 5,
+      "name": "City Guides › Australia and New Zealand"
+    },
+    "22": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "City Guides › South/Central America"
+    },
+    "220": {
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "What is...?"
+    },
+    "23": {
+      "estimate_exact": true,
+      "estimated_threads": 12,
+      "name": "City Guides › Rest of Asia"
+    },
+    "24": {
+      "estimate_exact": true,
+      "estimated_threads": 197,
+      "name": "Iron Heart Meet Ups & Travel"
+    },
+    "26": {
+      "estimate_exact": true,
+      "estimated_threads": 10,
+      "name": "Measuring - The Iron Heart Method"
+    },
+    "27": {
+      "estimate_exact": true,
+      "estimated_threads": 46,
+      "name": "Sport"
+    },
+    "29": {
+      "estimate_exact": true,
+      "estimated_threads": 166,
+      "name": "Tell us all, What You've Got"
+    },
+    "3": {
+      "estimate_exact": true,
+      "estimated_threads": 436,
+      "name": "General Chat"
+    },
+    "30": {
+      "estimate_exact": true,
+      "estimated_threads": 19,
+      "name": "Triple Works › Bottoms"
+    },
+    "31": {
+      "estimate_exact": true,
+      "estimated_threads": 18,
+      "name": "Triple Works › Shirting"
+    },
+    "319": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Spring/Summer 2026"
+    },
+    "32": {
+      "estimate_exact": true,
+      "estimated_threads": 40,
+      "name": "Accessories"
+    },
+    "326": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Pisgah Range"
+    },
+    "327": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Future and Planned Products › Fall/Winter 2026 Collection"
+    },
+    "328": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Addict Boots Japan"
+    },
+    "329": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Andersen-Andersen Knitwear"
+    },
+    "33": {
+      "estimate_exact": true,
+      "estimated_threads": 112,
+      "name": "The Resource Centre"
+    },
+    "34": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Triple Works › Jackets"
+    },
+    "35": {
+      "estimate_exact": true,
+      "estimated_threads": 22,
+      "name": "World Tours"
+    },
+    "36": {
+      "estimate_exact": true,
+      "estimated_threads": 29,
+      "name": "Heavy Weight Contests & Competitions"
+    },
+    "38": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Triple Works › Cut & Sewn"
+    },
+    "39": {
+      "estimate_exact": true,
+      "estimated_threads": 37,
+      "name": "What Are You Wearing Today (WAYWT)"
+    },
+    "41": {
+      "estimate_exact": true,
+      "estimated_threads": 65,
+      "name": "Vests"
+    },
+    "44": {
+      "estimate_exact": true,
+      "estimated_threads": 238,
+      "name": "Obbi Good Label"
+    },
+    "46": {
+      "estimate_exact": true,
+      "estimated_threads": 38,
+      "name": "Future and Planned Products"
+    },
+    "47": {
+      "estimate_exact": true,
+      "estimated_threads": 14,
+      "name": "Fall Winter 2017 › FW17 - Shirting"
+    },
+    "48": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Fall Winter 2017 › FW17 - Cut & Sewn"
+    },
+    "49": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Fall Winter 2017 › FW17 - Bottoms"
+    },
+    "5": {
+      "estimate_exact": true,
+      "estimated_threads": 320,
+      "name": "Other Brands and Shops"
+    },
+    "50": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Fall Winter 2017 › FW17 - Jackets"
+    },
+    "51": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Fall Winter 2017 › FW17 - Vests"
+    },
+    "52": {
+      "estimate_exact": true,
+      "estimated_threads": 20,
+      "name": "Past Seasons Collections"
+    },
+    "55": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:21Z",
+      "backfill_page": 3,
+      "estimate_exact": true,
+      "estimated_threads": 54,
+      "name": "General Info About Iron Heart Products",
+      "pages": 3
+    },
+    "56": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:24Z",
+      "backfill_page": 1,
+      "estimate_exact": true,
+      "estimated_threads": 3,
+      "name": "Want us to Email You When a New Product Arrives….",
+      "pages": 1
+    },
+    "57": {
+      "estimate_exact": true,
+      "estimated_threads": 52,
+      "name": "Hobbies and Pastimes"
+    },
+    "58": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Sustainability at Iron Heart"
+    },
+    "61": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Spring Summer 2018"
+    },
+    "62": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Spring Summer 2018 › SS18 - Cut & Sewn"
+    },
+    "63": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring Summer 2018 › SS18 - Vests"
+    },
+    "64": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Spring Summer 2018 › SS18 - Jackets"
+    },
+    "65": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Spring Summer 2018 › SS18 - Shirting"
+    },
+    "66": {
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "Spring Summer 2018 › SS18 - Bottoms"
+    },
+    "69": {
+      "estimate_exact": true,
+      "estimated_threads": 17,
+      "name": "GOOD ART HLYWD"
+    },
+    "7": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:06Z",
+      "backfill_page": 1,
+      "estimate_exact": true,
+      "estimated_threads": 12,
+      "name": "Some Really Boring (but useful) and Some Really Interesting Stuff!",
+      "pages": 1
+    },
+    "70": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Fall Winter 2018"
+    },
+    "71": {
+      "estimate_exact": true,
+      "estimated_threads": 6,
+      "name": "Fall Winter 2018 › FW18 - Bottoms"
+    },
+    "72": {
+      "estimate_exact": true,
+      "estimated_threads": 11,
+      "name": "Fall Winter 2018 › FW18 - Shirting"
+    },
+    "73": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Fall Winter 2018 › FW18 - Cut & Sewn"
+    },
+    "74": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Fall Winter 2018 › FW18 - Vests"
+    },
+    "75": {
+      "estimate_exact": true,
+      "estimated_threads": 16,
+      "name": "Fall Winter 2018 › FW18 - Jackets"
+    },
+    "76": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "GOOD ART HLYWD › Wallets"
+    },
+    "77": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "GOOD ART HLYWD › Wallet Chains"
+    },
+    "78": {
+      "estimate_exact": true,
+      "estimated_threads": 50,
+      "name": "GOOD ART HLYWD › Pendants"
+    },
+    "79": {
+      "estimate_exact": true,
+      "estimated_threads": 36,
+      "name": "GOOD ART HLYWD › Rings"
+    },
+    "8": {
+      "estimate_exact": true,
+      "estimated_threads": 134,
+      "name": "Footwear"
+    },
+    "80": {
+      "estimate_exact": true,
+      "estimated_threads": 24,
+      "name": "GOOD ART HLYWD › Chains"
+    },
+    "81": {
+      "estimate_exact": true,
+      "estimated_threads": 17,
+      "name": "GOOD ART HLYWD › Keychains"
+    },
+    "82": {
+      "estimate_exact": true,
+      "estimated_threads": 88,
+      "name": "GOOD ART HLYWD › Other Accessories"
+    },
+    "83": {
+      "estimate_exact": true,
+      "estimated_threads": 38,
+      "name": "GOOD ART HLYWD › Bracelets"
+    },
+    "86": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-08T17:21:09Z",
+      "backfill_page": 1,
+      "estimate_exact": true,
+      "estimated_threads": 8,
+      "name": "Iron Heart Website Hints",
+      "pages": 1
+    },
+    "87": {
+      "estimate_exact": true,
+      "estimated_threads": 3,
+      "name": "Spring Summer 2019 › SS19 - Bottoms"
+    },
+    "88": {
+      "estimate_exact": true,
+      "estimated_threads": 9,
+      "name": "Spring Summer 2019 › SS19 - Shirting"
+    },
+    "89": {
+      "estimate_exact": true,
+      "estimated_threads": 7,
+      "name": "Spring Summer 2019 › SS19 - Cut & Sewn"
+    },
+    "9": {
+      "backfill_page": 21,
+      "estimate_exact": true,
+      "estimated_threads": 447,
+      "name": "Bottoms",
+      "pages": 23
+    },
+    "90": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring Summer 2019 › SS19 - Vests"
+    },
+    "91": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Spring Summer 2019 › SS19 - Jackets"
+    },
+    "93": {
+      "estimate_exact": true,
+      "estimated_threads": 1,
+      "name": "Spring Summer 2019 › Release Schedule"
+    },
+    "94": {
+      "estimate_exact": true,
+      "estimated_threads": 2,
+      "name": "Past Seasons Collections › Fall Winter 2019"
+    },
+    "95": {
+      "estimate_exact": true,
+      "estimated_threads": 12,
+      "name": "Fall Winter 2019 › FW19 - Jackets"
+    },
+    "96": {
+      "estimate_exact": true,
+      "estimated_threads": 4,
+      "name": "Fall Winter 2019 › FW19 - Vests"
+    },
+    "97": {
+      "estimate_exact": true,
+      "estimated_threads": 21,
+      "name": "Fall Winter 2019 › FW19 - Shirting"
+    },
+    "98": {
+      "estimate_exact": true,
+      "estimated_threads": 13,
+      "name": "Fall Winter 2019 › FW19 - Bottoms"
+    },
+    "99": {
+      "estimate_exact": true,
+      "estimated_threads": 6,
+      "name": "Fall Winter 2019 › FW19 - Cut & Sewn"
+    }
+  },
+  "posts": {
+    "ironheart:103": {
+      "fetched_at": "2026-11-08T17:37:44Z",
+      "page_count": 1042,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:16": {
+      "fetched_at": "2026-11-08T17:37:50Z",
+      "page_count": 793,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:17474": {
+      "fetched_at": "2026-11-08T17:37:47Z",
+      "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:18582": {
+      "fetched_at": "2026-11-08T17:37:56Z",
+      "page_count": 337,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:20391": {
+      "fetched_at": "2026-11-08T17:37:41Z",
+      "page_count": 4,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:487": {
+      "fetched_at": "2026-11-08T17:22:00Z",
+      "page_count": 247,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:660": {
+      "fetched_at": "2026-11-08T17:37:53Z",
+      "page_count": 191,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:6911": {
+      "fetched_at": "2026-11-08T17:21:58Z",
+      "page_count": 87,
+      "pages": [
+        1
+      ]
+    }
+  },
+  "recent_refreshed_at": "2026-11-08T17:36:17Z",
+  "status": "ok",
+  "top": {
+    "cursor": 48
+  }
+}

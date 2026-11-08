@@ -1,0 +1,8 @@
+[project]
+name = "vintage-forum-collector"
+version = "0.1.0"
+description = "Polite metadata collector for vintage clothing forums (feeds GitHub Pages static JSON)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

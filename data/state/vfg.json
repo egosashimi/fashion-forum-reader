@@ -1,0 +1,131 @@
+{
+  "backfill": {
+    "cycle": 1,
+    "node_index": 0,
+    "page": 25,
+    "pages_walked": 24,
+    "started_at": "2026-11-08T17:17:06Z"
+  },
+  "last_attempt_at": "2026-11-08T17:32:04Z",
+  "last_error": null,
+  "last_run": {
+    "at": "2026-11-08T17:33:56Z",
+    "new_posts": 86,
+    "new_threads": 484,
+    "requests": 38,
+    "updated_threads": 227
+  },
+  "last_success_at": "2026-11-08T17:33:56Z",
+  "nodes": {
+    "public-labels-for-the-label-resource-add-here.41": {
+      "estimate_exact": false,
+      "estimated_threads": 20,
+      "name": "Labels for the Label Resource",
+      "pages": 1
+    },
+    "public-show-and-tell-share-your-treasures.40": {
+      "estimate_exact": false,
+      "estimated_threads": 1220,
+      "name": "Show and Tell",
+      "pages": 61
+    },
+    "public-vfg-fashion-parades.45": {
+      "estimate_exact": false,
+      "estimated_threads": 3240,
+      "name": "VFG Fashion Parades",
+      "pages": 162
+    },
+    "public-vintage-chatter-anything-and-everything.47": {
+      "estimate_exact": false,
+      "estimated_threads": 4040,
+      "name": "Vintage Chatter",
+      "pages": 202
+    },
+    "public-vintage-fashion-ask-questions-get-answers.39": {
+      "backfill_page": 24,
+      "estimate_exact": false,
+      "estimated_threads": 16040,
+      "name": "Ask Questions Get Answers",
+      "pages": 802
+    },
+    "public-workshops-specialty-vintage-topics.43": {
+      "estimate_exact": false,
+      "estimated_threads": 20,
+      "name": "Workshops",
+      "pages": 1
+    }
+  },
+  "posts": {
+    "vfg:46451": {
+      "fetched_at": "2026-11-08T17:33:44Z",
+      "page_count": 12,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vfg:79309": {
+      "fetched_at": "2026-11-08T17:33:47Z",
+      "page_count": 11,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vfg:81545": {
+      "fetched_at": "2026-11-08T17:33:41Z",
+      "page_count": 14,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vfg:84096": {
+      "fetched_at": "2026-11-08T17:33:53Z",
+      "page_count": 7,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:88300": {
+      "fetched_at": "2026-11-08T17:17:51Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:88304": {
+      "fetched_at": "2026-11-08T17:17:45Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:88305": {
+      "fetched_at": "2026-11-08T17:33:56Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:88306": {
+      "fetched_at": "2026-11-08T17:33:49Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:88307": {
+      "fetched_at": "2026-11-08T17:17:57Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    }
+  },
+  "recent_refreshed_at": "2026-11-08T17:32:26Z",
+  "status": "ok",
+  "top": {
+    "cursor": 32
+  }
+}

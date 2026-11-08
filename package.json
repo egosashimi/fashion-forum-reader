@@ -1,0 +1,29 @@
+{
+  "name": "fashion-forum-reader",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Vintage fashion forum aggregator: unified feed, all-time leaderboards, search, watchlists and a personal research library.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc -b",
+    "data": "python3 -m collector build --out public/data",
+    "test:py": "python3 -m pytest -q"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "fake-indexeddb": "^6.0.0",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

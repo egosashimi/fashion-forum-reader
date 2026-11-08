@@ -1,0 +1,64 @@
+{
+ "tid": 934,
+ "title": "IH-666-XHS - 25oz Selvedge Denim Slim Straight Cut Jeans - Indigo",
+ "slug": "934/ih-666-xhs-25oz-selvedge-denim-slim-straight-cut-jeans-indigo",
+ "cid": 9,
+ "postcount": 4600,
+ "viewcount": 2200078,
+ "timestampISO": "2011-09-02T06:05:34.000Z",
+ "lastposttimeISO": "2026-11-01T23:53:10.046Z",
+ "pinned": 0,
+ "locked": 0,
+ "category": {
+  "cid": 9,
+  "name": "Bottoms"
+ },
+ "posts": [
+  {
+   "pid": 934,
+   "tid": 934,
+   "timestamp": 1314943534000,
+   "timestampISO": "2011-09-02T06:05:34.000Z",
+   "index": 0,
+   "content": "<p dir=\"auto\"><strong>25oz Selvedge Denim Slim Straight Cut Jeans in Indigo</strong></p>\n<p dir=\"auto\">Our slim straight jean with a low/medium rise in our indigo 25oz denim. This ultra heavy denim is at the limit of what can be made and is not for the faint of heart. Super-stiff when new and requires some \"breaking-in\"- with time and wear it becomes soft, pliable and very comfy. Woven with an ind",
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   }
+  },
+  {
+   "pid": 99022,
+   "tid": 934,
+   "timestamp": 1314948148000,
+   "timestampISO": "2011-09-02T07:22:28.000Z",
+   "index": 1,
+   "content": "<p dir=\"auto\">are these VMC 666s sanforized?</p>\n",
+   "user": {
+    "uid": 793,
+    "username": "Danny RnH",
+    "userslug": "danny-rnh",
+    "displayname": "Danny RnH"
+   }
+  },
+  {
+   "pid": 99026,
+   "tid": 934,
+   "timestamp": 1314948813000,
+   "timestampISO": "2011-09-02T07:33:33.000Z",
+   "index": 2,
+   "content": "<p dir=\"auto\">Yes they are.\u00a0 G</p>\n",
+   "user": {
+    "uid": 2,
+    "username": "Giles",
+    "userslug": "giles",
+    "displayname": "Giles"
+   }
+  }
+ ],
+ "pagination": {
+  "currentPage": 1,
+  "pageCount": 230
+ }
+}
