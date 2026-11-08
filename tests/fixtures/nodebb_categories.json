@@ -1,0 +1,1726 @@
+{
+ "categories": [
+  {
+   "cid": 158,
+   "name": "New Members - Take a Look Here",
+   "slug": "158/new-members-take-a-look-here",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 0,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 148,
+     "name": "New Forum Frequently Asked Questions",
+     "slug": "148/new-forum-frequently-asked-questions",
+     "parentCid": 158,
+     "isSection": 0,
+     "topic_count": 24,
+     "post_count": 834,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 7,
+     "name": "Some Really Boring (but useful) and Some Really Interesting Stuff!",
+     "slug": "7/some-really-boring-but-useful-and-some-really-interesting-stuff",
+     "parentCid": 158,
+     "isSection": 0,
+     "topic_count": 12,
+     "post_count": 9360,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 86,
+     "name": "Iron Heart Website Hints",
+     "slug": "86/iron-heart-website-hints",
+     "parentCid": 158,
+     "isSection": 0,
+     "topic_count": 8,
+     "post_count": 64,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 149,
+   "name": "Iron Heart Products",
+   "slug": "149/iron-heart-products",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 2,
+   "post_count": 191,
+   "link": "",
+   "children": [
+    {
+     "cid": 55,
+     "name": "General Info About Iron Heart Products",
+     "slug": "55/general-info-about-iron-heart-products",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 54,
+     "post_count": 6995,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 56,
+     "name": "Want us to Email You When a New Product Arrives\u2026.",
+     "slug": "56/want-us-to-email-you-when-a-new-product-arrives",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 3,
+     "post_count": 20,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 9,
+     "name": "Bottoms",
+     "slug": "9/bottoms",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 447,
+     "post_count": 98159,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 10,
+     "name": "Shirting",
+     "slug": "10/shirting",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 633,
+     "post_count": 84698,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 11,
+     "name": "Jackets",
+     "slug": "11/jackets",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 380,
+     "post_count": 43495,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 41,
+     "name": "Vests",
+     "slug": "41/vests",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 65,
+     "post_count": 6673,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 12,
+     "name": "Cut &amp; Sewn",
+     "slug": "12/cut-sewn",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 433,
+     "post_count": 20316,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 13,
+     "name": "Hardware",
+     "slug": "13/hardware",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 175,
+     "post_count": 10487,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 166,
+     "name": "Project RE:LOVE and The Outlet",
+     "slug": "166/project-re-love-and-the-outlet",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 8,
+     "post_count": 1136,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 54,
+     "name": "Triple Works",
+     "slug": "54/triple-works",
+     "parentCid": 149,
+     "isSection": 0,
+     "topic_count": 0,
+     "post_count": 0,
+     "link": "",
+     "children": [
+      {
+       "cid": 30,
+       "name": "Bottoms",
+       "slug": "30/bottoms",
+       "parentCid": 54,
+       "isSection": 0,
+       "topic_count": 19,
+       "post_count": 1340,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 31,
+       "name": "Shirting",
+       "slug": "31/shirting",
+       "parentCid": 54,
+       "isSection": 0,
+       "topic_count": 18,
+       "post_count": 1095,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 34,
+       "name": "Jackets",
+       "slug": "34/jackets",
+       "parentCid": 54,
+       "isSection": 0,
+       "topic_count": 1,
+       "post_count": 101,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 38,
+       "name": "Cut &amp; Sewn",
+       "slug": "38/cut-sewn",
+       "parentCid": 54,
+       "isSection": 0,
+       "topic_count": 7,
+       "post_count": 152,
+       "link": "",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cid": 195,
+   "name": "Partner Brands",
+   "slug": "195/partner-brands",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 0,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 329,
+     "name": "Andersen-Andersen Knitwear",
+     "slug": "329/andersen-andersen-knitwear",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 7,
+     "post_count": 249,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 328,
+     "name": "Addict Boots Japan",
+     "slug": "328/addict-boots-japan",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 1,
+     "post_count": 63,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 326,
+     "name": "Pisgah Range",
+     "slug": "326/pisgah-range",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 1,
+     "post_count": 15,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 205,
+     "name": "ROTOTO",
+     "slug": "205/rototo",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 18,
+     "post_count": 129,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 44,
+     "name": "Obbi Good Label",
+     "slug": "44/obbi-good-label",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 238,
+     "post_count": 1221,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 69,
+     "name": "GOOD ART HLYWD",
+     "slug": "69/good-art-hlywd",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 17,
+     "post_count": 4537,
+     "link": "",
+     "children": [
+      {
+       "cid": 83,
+       "name": "Bracelets",
+       "slug": "83/bracelets",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 38,
+       "post_count": 895,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 80,
+       "name": "Chains",
+       "slug": "80/chains",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 24,
+       "post_count": 127,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 81,
+       "name": "Keychains",
+       "slug": "81/keychains",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 17,
+       "post_count": 79,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 82,
+       "name": "Other Accessories",
+       "slug": "82/other-accessories",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 88,
+       "post_count": 492,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 78,
+       "name": "Pendants",
+       "slug": "78/pendants",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 50,
+       "post_count": 417,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 79,
+       "name": "Rings",
+       "slug": "79/rings",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 36,
+       "post_count": 233,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 76,
+       "name": "Wallets",
+       "slug": "76/wallets",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 4,
+       "post_count": 25,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 77,
+       "name": "Wallet Chains",
+       "slug": "77/wallet-chains",
+       "parentCid": 69,
+       "isSection": 0,
+       "topic_count": 4,
+       "post_count": 17,
+       "link": "",
+       "children": []
+      }
+     ]
+    },
+    {
+     "cid": 141,
+     "name": "SaturdayTypeFever",
+     "slug": "141/saturdaytypefever",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 47,
+     "post_count": 941,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 142,
+     "name": "Porter - Yoshida &amp; Co.",
+     "slug": "142/porter-yoshida-co",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 71,
+     "post_count": 213,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 197,
+     "name": "Utilitees",
+     "slug": "197/utilitees",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 5,
+     "post_count": 188,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 198,
+     "name": "Decka",
+     "slug": "198/decka",
+     "parentCid": 195,
+     "isSection": 0,
+     "topic_count": 16,
+     "post_count": 209,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 153,
+   "name": "Iron Heart Information",
+   "slug": "153/iron-heart-information",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 1,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 220,
+     "name": "What is...?",
+     "slug": "220/what-is...",
+     "parentCid": 153,
+     "isSection": 0,
+     "topic_count": 8,
+     "post_count": 14,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 46,
+     "name": "Future and Planned Products",
+     "slug": "46/future-and-planned-products",
+     "parentCid": 153,
+     "isSection": 0,
+     "topic_count": 38,
+     "post_count": 24284,
+     "link": "",
+     "children": [
+      {
+       "cid": 327,
+       "name": "Fall&#x2F;Winter 2026 Collection",
+       "slug": "327/fall-winter-2026-collection",
+       "parentCid": 46,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 212,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 167,
+       "name": "Non Seasonal Product Preview",
+       "slug": "167/non-seasonal-product-preview",
+       "parentCid": 46,
+       "isSection": 0,
+       "topic_count": 19,
+       "post_count": 2010,
+       "link": "",
+       "children": []
+      }
+     ]
+    },
+    {
+     "cid": 26,
+     "name": "Measuring - The Iron Heart Method",
+     "slug": "26/measuring-the-iron-heart-method",
+     "parentCid": 153,
+     "isSection": 0,
+     "topic_count": 10,
+     "post_count": 89,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 58,
+     "name": "Sustainability at Iron Heart",
+     "slug": "58/sustainability-at-iron-heart",
+     "parentCid": 153,
+     "isSection": 0,
+     "topic_count": 9,
+     "post_count": 239,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 52,
+     "name": "Past Seasons Collections",
+     "slug": "52/past-seasons-collections",
+     "parentCid": 153,
+     "isSection": 0,
+     "topic_count": 20,
+     "post_count": 7784,
+     "link": "",
+     "children": [
+      {
+       "cid": 319,
+       "name": "Spring&#x2F;Summer 2026",
+       "slug": "319/spring-summer-2026",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 78,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 199,
+       "name": "Fall&#x2F;Winter 2024",
+       "slug": "199/fall-winter-2024",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 114,
+       "link": "",
+       "children": [
+        {
+         "cid": 200,
+         "name": "Fall&#x2F;Winter 2024 - Jackets",
+         "slug": "200/fall-winter-2024-jackets",
+         "parentCid": 199,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 4,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 201,
+         "name": "Fall&#x2F;Winter 2024 - Vests",
+         "slug": "201/fall-winter-2024-vests",
+         "parentCid": 199,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 202,
+         "name": "Fall&#x2F;Winter 2024 - Shirts ",
+         "slug": "202/fall-winter-2024-shirts",
+         "parentCid": 199,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 203,
+         "name": "Fall&#x2F;Winter 2024 - Knits &amp; Sweats",
+         "slug": "203/fall-winter-2024-knits-sweats",
+         "parentCid": 199,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 24,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 204,
+         "name": "Fall&#x2F;Winter 2024 - Bottoms",
+         "slug": "204/fall-winter-2024-bottoms",
+         "parentCid": 199,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 173,
+       "name": "Spring&#x2F;Summer 2024",
+       "slug": "173/spring-summer-2024",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 1,
+       "post_count": 1,
+       "link": "",
+       "children": [
+        {
+         "cid": 177,
+         "name": "Spring&#x2F;Summer 2024 - Bottoms",
+         "slug": "177/spring-summer-2024-bottoms",
+         "parentCid": 173,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 174,
+         "name": "Spring&#x2F;Summer 2024 - Shirts",
+         "slug": "174/spring-summer-2024-shirts",
+         "parentCid": 173,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 27,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 175,
+         "name": "Spring&#x2F;Summer 2024 - Jackets",
+         "slug": "175/spring-summer-2024-jackets",
+         "parentCid": 173,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 161,
+       "name": "Fall&#x2F;Winter 2023",
+       "slug": "161/fall-winter-2023",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 233,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 143,
+       "name": "Spring&#x2F;Summer 2023",
+       "slug": "143/spring-summer-2023",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 1,
+       "post_count": 93,
+       "link": "",
+       "children": [
+        {
+         "cid": 147,
+         "name": "Spring&#x2F;Summer 2023 - Knits and Sweats",
+         "slug": "147/spring-summer-2023-knits-and-sweats",
+         "parentCid": 143,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 146,
+         "name": "Spring&#x2F;Summer 2023 - Bottoms",
+         "slug": "146/spring-summer-2023-bottoms",
+         "parentCid": 143,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 42,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 145,
+         "name": "Spring&#x2F;Summer 2023 - Shirts",
+         "slug": "145/spring-summer-2023-shirts",
+         "parentCid": 143,
+         "isSection": 0,
+         "topic_count": 8,
+         "post_count": 41,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 144,
+         "name": "Spring&#x2F;Summer 2023 - Jackets",
+         "slug": "144/spring-summer-2023-jackets",
+         "parentCid": 143,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 137,
+       "name": "Fall&#x2F;Winter 2022",
+       "slug": "137/fall-winter-2022",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 56,
+       "link": "",
+       "children": [
+        {
+         "cid": 138,
+         "name": "Fall&#x2F;Winter 2022 - Jackets",
+         "slug": "138/fall-winter-2022-jackets",
+         "parentCid": 137,
+         "isSection": 0,
+         "topic_count": 10,
+         "post_count": 35,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 139,
+         "name": "Fall&#x2F;Winter 2022 - Shirts",
+         "slug": "139/fall-winter-2022-shirts",
+         "parentCid": 137,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 140,
+         "name": "Fall&#x2F;Winter 2022 - Bottoms",
+         "slug": "140/fall-winter-2022-bottoms",
+         "parentCid": 137,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 128,
+       "name": "Spring Summer 2022",
+       "slug": "128/spring-summer-2022",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 4,
+       "post_count": 112,
+       "link": "",
+       "children": [
+        {
+         "cid": 129,
+         "name": "Spring Summer 2022 - Bottoms",
+         "slug": "129/spring-summer-2022-bottoms",
+         "parentCid": 128,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 1,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 131,
+         "name": "Spring Summer 2022 - Jackets",
+         "slug": "131/spring-summer-2022-jackets",
+         "parentCid": 128,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 25,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 133,
+         "name": "Spring Summer 2022 - Vests",
+         "slug": "133/spring-summer-2022-vests",
+         "parentCid": 128,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 1,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 130,
+         "name": "Spring Summer 2022 - Shirts",
+         "slug": "130/spring-summer-2022-shirts",
+         "parentCid": 128,
+         "isSection": 0,
+         "topic_count": 4,
+         "post_count": 14,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 132,
+         "name": "Spring Summer 2022 - Knits &amp; Sweats",
+         "slug": "132/spring-summer-2022-knits-sweats",
+         "parentCid": 128,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 9,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 123,
+       "name": "Fall Winter 2021",
+       "slug": "123/fall-winter-2021",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 4,
+       "post_count": 168,
+       "link": "",
+       "children": [
+        {
+         "cid": 127,
+         "name": "Fall Winter 2021 - Knits &amp; Sweats",
+         "slug": "127/fall-winter-2021-knits-sweats",
+         "parentCid": 123,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 2,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 126,
+         "name": "Fall Winter 2021 - Shirts",
+         "slug": "126/fall-winter-2021-shirts",
+         "parentCid": 123,
+         "isSection": 0,
+         "topic_count": 0,
+         "post_count": 0,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 125,
+         "name": "Fall Winter 2021 - Vests",
+         "slug": "125/fall-winter-2021-vests",
+         "parentCid": 123,
+         "isSection": 0,
+         "topic_count": 3,
+         "post_count": 15,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 124,
+         "name": "Fall Winter 2021 - Jackets",
+         "slug": "124/fall-winter-2021-jackets",
+         "parentCid": 123,
+         "isSection": 0,
+         "topic_count": 5,
+         "post_count": 5,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 121,
+       "name": "Spring Summer 2021",
+       "slug": "121/spring-summer-2021",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 4,
+       "post_count": 243,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 113,
+       "name": "Fall Winter 2020",
+       "slug": "113/fall-winter-2020",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 3,
+       "post_count": 179,
+       "link": "",
+       "children": [
+        {
+         "cid": 114,
+         "name": "FW20 - Bottoms",
+         "slug": "114/fw20-bottoms",
+         "parentCid": 113,
+         "isSection": 0,
+         "topic_count": 14,
+         "post_count": 199,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 115,
+         "name": "FW20 - Shirting",
+         "slug": "115/fw20-shirting",
+         "parentCid": 113,
+         "isSection": 0,
+         "topic_count": 17,
+         "post_count": 186,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 116,
+         "name": "FW20 - Vests",
+         "slug": "116/fw20-vests",
+         "parentCid": 113,
+         "isSection": 0,
+         "topic_count": 3,
+         "post_count": 6,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 117,
+         "name": "FW20 - Jackets",
+         "slug": "117/fw20-jackets",
+         "parentCid": 113,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 69,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 118,
+         "name": "FW20 - Knits &amp; Sweats",
+         "slug": "118/fw20-knits-sweats",
+         "parentCid": 113,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 9,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 108,
+       "name": "Spring Summer 2020",
+       "slug": "108/spring-summer-2020",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 37,
+       "link": "",
+       "children": [
+        {
+         "cid": 112,
+         "name": "SS20 - Bottoms",
+         "slug": "112/ss20-bottoms",
+         "parentCid": 108,
+         "isSection": 0,
+         "topic_count": 7,
+         "post_count": 45,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 111,
+         "name": "SS20 - Shirting",
+         "slug": "111/ss20-shirting",
+         "parentCid": 108,
+         "isSection": 0,
+         "topic_count": 19,
+         "post_count": 154,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 110,
+         "name": "SS20 - Knits &amp; Sweats",
+         "slug": "110/ss20-knits-sweats",
+         "parentCid": 108,
+         "isSection": 0,
+         "topic_count": 7,
+         "post_count": 39,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 109,
+         "name": "SS20 - Jackets",
+         "slug": "109/ss20-jackets",
+         "parentCid": 108,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 57,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 94,
+       "name": "Fall Winter 2019",
+       "slug": "94/fall-winter-2019",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 66,
+       "link": "",
+       "children": [
+        {
+         "cid": 98,
+         "name": "FW19 - Bottoms",
+         "slug": "98/fw19-bottoms",
+         "parentCid": 94,
+         "isSection": 0,
+         "topic_count": 13,
+         "post_count": 44,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 97,
+         "name": "FW19 - Shirting",
+         "slug": "97/fw19-shirting",
+         "parentCid": 94,
+         "isSection": 0,
+         "topic_count": 21,
+         "post_count": 211,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 99,
+         "name": "FW19 - Cut &amp; Sewn",
+         "slug": "99/fw19-cut-sewn",
+         "parentCid": 94,
+         "isSection": 0,
+         "topic_count": 6,
+         "post_count": 28,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 96,
+         "name": "FW19 - Vests",
+         "slug": "96/fw19-vests",
+         "parentCid": 94,
+         "isSection": 0,
+         "topic_count": 4,
+         "post_count": 12,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 95,
+         "name": "FW19 - Jackets",
+         "slug": "95/fw19-jackets",
+         "parentCid": 94,
+         "isSection": 0,
+         "topic_count": 12,
+         "post_count": 41,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 84,
+       "name": "Spring Summer 2019",
+       "slug": "84/spring-summer-2019",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 0,
+       "post_count": 0,
+       "link": "",
+       "children": [
+        {
+         "cid": 87,
+         "name": "SS19 - Bottoms",
+         "slug": "87/ss19-bottoms",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 3,
+         "post_count": 46,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 88,
+         "name": "SS19 - Shirting",
+         "slug": "88/ss19-shirting",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 110,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 91,
+         "name": "SS19 - Jackets",
+         "slug": "91/ss19-jackets",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 18,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 90,
+         "name": "SS19 - Vests",
+         "slug": "90/ss19-vests",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 22,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 89,
+         "name": "SS19 - Cut &amp; Sewn",
+         "slug": "89/ss19-cut-sewn",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 7,
+         "post_count": 21,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 93,
+         "name": "Release Schedule",
+         "slug": "93/release-schedule",
+         "parentCid": 84,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 17,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 70,
+       "name": "Fall Winter 2018",
+       "slug": "70/fall-winter-2018",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 123,
+       "link": "",
+       "children": [
+        {
+         "cid": 71,
+         "name": "FW18 - Bottoms",
+         "slug": "71/fw18-bottoms",
+         "parentCid": 70,
+         "isSection": 0,
+         "topic_count": 6,
+         "post_count": 169,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 72,
+         "name": "FW18 - Shirting",
+         "slug": "72/fw18-shirting",
+         "parentCid": 70,
+         "isSection": 0,
+         "topic_count": 11,
+         "post_count": 317,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 73,
+         "name": "FW18 - Cut &amp; Sewn",
+         "slug": "73/fw18-cut-sewn",
+         "parentCid": 70,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 15,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 74,
+         "name": "FW18 - Vests",
+         "slug": "74/fw18-vests",
+         "parentCid": 70,
+         "isSection": 0,
+         "topic_count": 4,
+         "post_count": 21,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 75,
+         "name": "FW18 - Jackets",
+         "slug": "75/fw18-jackets",
+         "parentCid": 70,
+         "isSection": 0,
+         "topic_count": 16,
+         "post_count": 198,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 60,
+       "name": "Fall Winter 2017",
+       "slug": "60/fall-winter-2017",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 0,
+       "post_count": 0,
+       "link": "",
+       "children": [
+        {
+         "cid": 49,
+         "name": "FW17 - Bottoms",
+         "slug": "49/fw17-bottoms",
+         "parentCid": 60,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 48,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 47,
+         "name": "FW17 - Shirting",
+         "slug": "47/fw17-shirting",
+         "parentCid": 60,
+         "isSection": 0,
+         "topic_count": 14,
+         "post_count": 419,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 48,
+         "name": "FW17 - Cut &amp; Sewn",
+         "slug": "48/fw17-cut-sewn",
+         "parentCid": 60,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 118,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 51,
+         "name": "FW17 - Vests",
+         "slug": "51/fw17-vests",
+         "parentCid": 60,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 32,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 50,
+         "name": "FW17 - Jackets",
+         "slug": "50/fw17-jackets",
+         "parentCid": 60,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 143,
+         "link": "",
+         "children": []
+        }
+       ]
+      },
+      {
+       "cid": 61,
+       "name": "Spring Summer 2018",
+       "slug": "61/spring-summer-2018",
+       "parentCid": 52,
+       "isSection": 0,
+       "topic_count": 2,
+       "post_count": 74,
+       "link": "",
+       "children": [
+        {
+         "cid": 66,
+         "name": "SS18 - Bottoms",
+         "slug": "66/ss18-bottoms",
+         "parentCid": 61,
+         "isSection": 0,
+         "topic_count": 8,
+         "post_count": 75,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 65,
+         "name": "SS18 - Shirting",
+         "slug": "65/ss18-shirting",
+         "parentCid": 61,
+         "isSection": 0,
+         "topic_count": 9,
+         "post_count": 204,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 62,
+         "name": "SS18 - Cut &amp; Sewn",
+         "slug": "62/ss18-cut-sewn",
+         "parentCid": 61,
+         "isSection": 0,
+         "topic_count": 1,
+         "post_count": 4,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 63,
+         "name": "SS18 - Vests",
+         "slug": "63/ss18-vests",
+         "parentCid": 61,
+         "isSection": 0,
+         "topic_count": 2,
+         "post_count": 42,
+         "link": "",
+         "children": []
+        },
+        {
+         "cid": 64,
+         "name": "SS18 - Jackets",
+         "slug": "64/ss18-jackets",
+         "parentCid": 61,
+         "isSection": 0,
+         "topic_count": 7,
+         "post_count": 300,
+         "link": "",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cid": 150,
+   "name": "General Stuff",
+   "slug": "150/general-stuff",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 4,
+   "post_count": 710,
+   "link": "",
+   "children": [
+    {
+     "cid": 2,
+     "name": "News",
+     "slug": "2/news",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 153,
+     "post_count": 12625,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 136,
+     "name": "Iron Cast",
+     "slug": "136/iron-cast",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 23,
+     "post_count": 688,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 33,
+     "name": "The Resource Centre",
+     "slug": "33/the-resource-centre",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 112,
+     "post_count": 25778,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 3,
+     "name": "General Chat",
+     "slug": "3/general-chat",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 436,
+     "post_count": 158349,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 29,
+     "name": "Tell us all, What You&#x27;ve Got",
+     "slug": "29/tell-us-all-what-you-ve-got",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 166,
+     "post_count": 1615,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 27,
+     "name": "Sport",
+     "slug": "27/sport",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 46,
+     "post_count": 18141,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 57,
+     "name": "Hobbies and Pastimes",
+     "slug": "57/hobbies-and-pastimes",
+     "parentCid": 150,
+     "isSection": 0,
+     "topic_count": 52,
+     "post_count": 44330,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 155,
+   "name": "What Are You Wearing Today",
+   "slug": "155/what-are-you-wearing-today",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 0,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 39,
+     "name": "What Are You Wearing Today (WAYWT)",
+     "slug": "39/what-are-you-wearing-today-waywt",
+     "parentCid": 155,
+     "isSection": 0,
+     "topic_count": 37,
+     "post_count": 104186,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 156,
+   "name": "Heavy Weight Contests &amp; Competitions",
+   "slug": "156/heavy-weight-contests-competitions",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 0,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 36,
+     "name": "Heavy Weight Contests &amp; Competitions",
+     "slug": "36/heavy-weight-contests-competitions",
+     "parentCid": 156,
+     "isSection": 0,
+     "topic_count": 29,
+     "post_count": 10435,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 154,
+   "name": "Other Brands, Footwear and Accessories",
+   "slug": "154/other-brands-footwear-and-accessories",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 1,
+   "post_count": 52,
+   "link": "",
+   "children": [
+    {
+     "cid": 5,
+     "name": "Other Brands and Shops",
+     "slug": "5/other-brands-and-shops",
+     "parentCid": 154,
+     "isSection": 0,
+     "topic_count": 320,
+     "post_count": 40051,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 32,
+     "name": "Accessories",
+     "slug": "32/accessories",
+     "parentCid": 154,
+     "isSection": 0,
+     "topic_count": 40,
+     "post_count": 23643,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 8,
+     "name": "Footwear",
+     "slug": "8/footwear",
+     "parentCid": 154,
+     "isSection": 0,
+     "topic_count": 134,
+     "post_count": 41952,
+     "link": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "cid": 152,
+   "name": "Events, Meet Ups &amp; Travel",
+   "slug": "152/events-meet-ups-travel",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 0,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 24,
+     "name": "Iron Heart Meet Ups &amp; Travel",
+     "slug": "24/iron-heart-meet-ups-travel",
+     "parentCid": 152,
+     "isSection": 0,
+     "topic_count": 197,
+     "post_count": 29814,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 35,
+     "name": "World Tours",
+     "slug": "35/world-tours",
+     "parentCid": 152,
+     "isSection": 0,
+     "topic_count": 22,
+     "post_count": 15993,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 16,
+     "name": "City Guides",
+     "slug": "16/city-guides",
+     "parentCid": 152,
+     "isSection": 0,
+     "topic_count": 2,
+     "post_count": 7,
+     "link": "",
+     "children": [
+      {
+       "cid": 17,
+       "name": "USA",
+       "slug": "17/usa",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 31,
+       "post_count": 917,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 20,
+       "name": "Japan",
+       "slug": "20/japan",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 8,
+       "post_count": 234,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 19,
+       "name": "Europe",
+       "slug": "19/europe",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 37,
+       "post_count": 717,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 18,
+       "name": "Canada",
+       "slug": "18/canada",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 5,
+       "post_count": 194,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 23,
+       "name": "Rest of Asia",
+       "slug": "23/rest-of-asia",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 12,
+       "post_count": 241,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 22,
+       "name": "South&#x2F;Central America",
+       "slug": "22/south-central-america",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 1,
+       "post_count": 1,
+       "link": "",
+       "children": []
+      },
+      {
+       "cid": 21,
+       "name": "Australia and New Zealand",
+       "slug": "21/australia-and-new-zealand",
+       "parentCid": 16,
+       "isSection": 0,
+       "topic_count": 5,
+       "post_count": 28,
+       "link": "",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cid": 151,
+   "name": "The Marketplace",
+   "slug": "151/the-marketplace",
+   "parentCid": 0,
+   "isSection": 1,
+   "topic_count": 1,
+   "post_count": 0,
+   "link": "",
+   "children": [
+    {
+     "cid": 28,
+     "name": "Want to Buy",
+     "slug": "28/want-to-buy",
+     "parentCid": 151,
+     "isSection": 0,
+     "topic_count": 64,
+     "post_count": 222,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 37,
+     "name": "Iron Heart Retailers",
+     "slug": "37/iron-heart-retailers",
+     "parentCid": 151,
+     "isSection": 0,
+     "topic_count": 31,
+     "post_count": 6707,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 119,
+     "name": "Pre-Production Samples For Sale",
+     "slug": "119/pre-production-samples-for-sale",
+     "parentCid": 151,
+     "isSection": 0,
+     "topic_count": 6,
+     "post_count": 38,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 4,
+     "name": "Stuff for Sale",
+     "slug": "4/stuff-for-sale",
+     "parentCid": 151,
+     "isSection": 0,
+     "topic_count": 178,
+     "post_count": 12412,
+     "link": "",
+     "children": []
+    },
+    {
+     "cid": 15,
+     "name": "Stuff to Trade",
+     "slug": "15/stuff-to-trade",
+     "parentCid": 151,
+     "isSection": 0,
+     "topic_count": 20,
+     "post_count": 75,
+     "link": "",
+     "children": []
+    }
+   ]
+  }
+ ]
+}

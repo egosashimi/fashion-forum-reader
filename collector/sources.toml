@@ -1,0 +1,108 @@
+# Source configuration for the collector.
+#
+# Each [[source]] block configures one forum. `adapter` selects the module in
+# collector/adapters/. Add a new forum by adding a block here (and, if the
+# forum software is not yet supported, a new adapter). See README.md.
+#
+# Politeness settings (applied per host):
+#   min_interval   - minimum seconds between two requests to the same host
+#   max_requests   - hard cap on requests per collector run for this source
+#   backfill_pages - listing pages to walk per run for the historical backfill
+#   top_pages      - pages of the forum's own "most replies"/"most views" sort
+#                    to refresh (every `top_refresh_hours`)
+
+[defaults]
+user_agent = "VintageForumReader/0.1 (+https://github.com/egosashimi/fashion-forum-reader; metadata indexer, polite)"
+min_interval = 3.0
+max_requests = 60
+timeout = 30
+backfill_pages = 12
+top_pages = 3
+top_refresh_hours = 72
+# cap on leaderboard-sort requests per run (the refresh resumes next run)
+top_requests_per_run = 12
+posts_pages_per_run = 6
+# Excerpts are cut to this many characters (sites permit search indexes with
+# short excerpts via their robots.txt content signals).
+excerpt_chars = 280
+
+[[source]]
+id = "fedoralounge"
+name = "The Fedora Lounge"
+short = "Fedora Lounge"
+adapter = "xenforo"
+base_url = "https://www.thefedoralounge.com"
+homepage = "https://www.thefedoralounge.com/forums/outerwear-and-workwear.4/"
+color = "#8a5a2b"
+nodes = [
+  { path = "outerwear-and-workwear.4", name = "Outerwear and Workwear" },
+]
+
+[[source]]
+id = "superfuture"
+name = "Superfuture — Superdenim"
+short = "Superfuture"
+adapter = "invision"
+base_url = "https://supertalk.superfuture.com"
+homepage = "https://supertalk.superfuture.com/forum/22-superdenim/"
+color = "#2b5a8a"
+nodes = [
+  { path = "22-superdenim", name = "Superdenim" },
+]
+notes = "Guest-visible pages only. Supertalk says it is currently free to view for guests; since 1 Feb 2026 full access to all sections needs a paid supermember account. The site is behind Cloudflare: when it challenges automated clients the collector marks the source blocked for that run and never tries to get around it."
+
+[[source]]
+id = "vfg"
+name = "Vintage Fashion Guild"
+short = "VFG"
+adapter = "xenforo"
+base_url = "https://forums.vintagefashionguild.org"
+homepage = "https://forums.vintagefashionguild.org/"
+color = "#8a2b5a"
+# Only the PUBLIC sections are indexed; member-only areas are never requested.
+nodes = [
+  { path = "public-vintage-fashion-ask-questions-get-answers.39", name = "Ask Questions Get Answers" },
+  { path = "public-labels-for-the-label-resource-add-here.41", name = "Labels for the Label Resource" },
+  { path = "public-show-and-tell-share-your-treasures.40", name = "Show and Tell" },
+  { path = "public-workshops-specialty-vintage-topics.43", name = "Workshops" },
+  { path = "public-vintage-chatter-anything-and-everything.47", name = "Vintage Chatter" },
+  { path = "public-vfg-fashion-parades.45", name = "VFG Fashion Parades" },
+]
+
+[[source]]
+id = "vlj"
+name = "Vintage Leather Jackets Forum"
+short = "VLJ"
+adapter = "xenforo"
+base_url = "https://www.vintageleatherjackets.org"
+homepage = "https://www.vintageleatherjackets.org/"
+color = "#5a3a1a"
+nodes = [
+  { path = "general-flight-jacket-discussion.5", name = "General Flight Jacket Discussion" },
+  { path = "vintage.7", name = "Vintage" },
+  { path = "repros.8", name = "Repros" },
+  { path = "foreign-flight-jackets.12", name = "Foreign Flight Jackets" },
+  { path = "moto-utility-jackets.11", name = "Moto / Utility Jackets" },
+  { path = "cloth.10", name = "Cloth" },
+  { path = "nylon.9", name = "Nylon" },
+  { path = "care-preservation.14", name = "Care / Preservation" },
+  { path = "how-to-info.15", name = "How To Info" },
+  { path = "related-gear.16", name = "Related Gear" },
+  { path = "jacket-art-patches-original-and-reproduction.29", name = "Jacket Art / Patches" },
+  { path = "reproduction-manufacturers.33", name = "Reproduction Manufacturers" },
+  { path = "ebay-auction-talk.20", name = "eBay / Auction Talk" },
+  { path = "photo-gallery-forum.3", name = "Photo Gallery" },
+]
+
+[[source]]
+id = "ironheart"
+name = "Iron Heart Forum"
+short = "Iron Heart"
+adapter = "nodebb"
+base_url = "https://forum.ironheart.co.uk"
+homepage = "https://forum.ironheart.co.uk/"
+color = "#9a1b1b"
+# NodeBB exposes an official read-only JSON API (/api/...), used instead of HTML.
+# Marketplace / classifieds categories are skipped.
+exclude_categories = [151, 28, 37, 119, 4, 15]
+backfill_pages = 15

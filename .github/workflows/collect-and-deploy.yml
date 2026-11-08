@@ -1,0 +1,92 @@
+name: Collect forum data and deploy
+
+on:
+  schedule:
+    # About every three hours. Odd minute to avoid the top-of-hour rush.
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Only these source ids (space separated, blank = all)"
+        required: false
+        default: ""
+      skip_collect:
+        description: "Only rebuild and deploy the site"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Never run two collectors at once: they would race on data/ and double the load on the forums.
+concurrency:
+  group: collect-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'push' && !inputs.skip_collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Collect (polite, budgeted, resumable)
+        run: |
+          args=""
+          for s in ${{ inputs.sources }}; do args="$args --source $s"; done
+          python -m collector collect --time-budget 2400 $args
+      - name: Show coverage
+        run: python -m collector status
+      - name: Commit updated data
+        run: |
+          git config user.name "forum-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: scheduled collection $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+  deploy:
+    needs: collect
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Pick up the data commit made by the collect job.
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Generate static JSON
+        run: python -m collector build --out public/data
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4

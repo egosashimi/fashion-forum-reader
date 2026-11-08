@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Generated from data/ by `npm run data` (CI generates it at deploy time)
+public/data/
+*.tmp
+tsconfig.tsbuildinfo
