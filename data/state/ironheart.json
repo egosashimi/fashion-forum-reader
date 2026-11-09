@@ -2,23 +2,23 @@
   "backfill": {
     "cycle": 1,
     "node_index": 7,
-    "page": 14,
-    "pages_walked": 45,
+    "page": 29,
+    "pages_walked": 60,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-08T22:24:23Z",
+  "last_attempt_at": "2026-11-09T07:01:47Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-08T22:26:08Z",
-    "new_posts": 119,
-    "new_threads": 387,
+    "at": "2026-11-09T07:03:33Z",
+    "new_posts": 120,
+    "new_threads": 411,
     "requests": 36,
-    "updated_threads": 160
+    "updated_threads": 148
   },
-  "last_success_at": "2026-11-08T22:26:08Z",
+  "last_success_at": "2026-11-09T07:03:33Z",
   "nodes": {
     "10": {
-      "backfill_page": 13,
+      "backfill_page": 28,
       "estimate_exact": true,
       "estimated_threads": 633,
       "name": "Shirting",
@@ -88,7 +88,8 @@
     "12": {
       "estimate_exact": true,
       "estimated_threads": 433,
-      "name": "Cut & Sewn"
+      "name": "Cut & Sewn",
+      "pages": 22
     },
     "121": {
       "estimate_exact": true,
@@ -128,7 +129,8 @@
     "13": {
       "estimate_exact": true,
       "estimated_threads": 175,
-      "name": "Hardware"
+      "name": "Hardware",
+      "pages": 9
     },
     "130": {
       "estimate_exact": true,
@@ -763,9 +765,31 @@
         1
       ]
     },
+    "ironheart:3190": {
+      "fetched_at": "2026-11-09T07:03:24Z",
+      "page_count": 14,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:4074": {
+      "fetched_at": "2026-11-09T07:03:18Z",
+      "page_count": 13,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:487": {
-      "fetched_at": "2026-11-08T17:22:00Z",
+      "fetched_at": "2026-11-09T07:03:33Z",
       "page_count": 247,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:6291": {
+      "fetched_at": "2026-11-09T07:03:27Z",
+      "page_count": 13,
       "pages": [
         1
       ]
@@ -784,11 +808,25 @@
       "pages": [
         1
       ]
+    },
+    "ironheart:9500": {
+      "fetched_at": "2026-11-09T07:03:30Z",
+      "page_count": 23,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:97": {
+      "fetched_at": "2026-11-09T07:03:21Z",
+      "page_count": 462,
+      "pages": [
+        1
+      ]
     }
   },
-  "recent_refreshed_at": "2026-11-08T22:24:29Z",
+  "recent_refreshed_at": "2026-11-09T07:01:54Z",
   "status": "ok",
   "top": {
-    "cursor": 60
+    "cursor": 72
   }
 }
