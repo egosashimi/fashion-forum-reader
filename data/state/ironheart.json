@@ -1,24 +1,26 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 7,
-    "page": 29,
-    "pages_walked": 60,
+    "node_index": 8,
+    "page": 12,
+    "pages_walked": 75,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-09T07:01:47Z",
+  "last_attempt_at": "2026-11-09T20:02:45Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-09T07:03:33Z",
+    "at": "2026-11-09T20:04:30Z",
     "new_posts": 120,
-    "new_threads": 411,
+    "new_threads": 307,
     "requests": 36,
-    "updated_threads": 148
+    "updated_threads": 125
   },
-  "last_success_at": "2026-11-09T07:03:33Z",
+  "last_success_at": "2026-11-09T20:04:30Z",
   "nodes": {
     "10": {
-      "backfill_page": 28,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-09T20:03:39Z",
+      "backfill_page": 32,
       "estimate_exact": true,
       "estimated_threads": 633,
       "name": "Shirting",
@@ -35,6 +37,7 @@
       "name": "Spring Summer 2020 › SS20 - Jackets"
     },
     "11": {
+      "backfill_page": 11,
       "estimate_exact": true,
       "estimated_threads": 380,
       "name": "Jackets",
@@ -238,7 +241,8 @@
     "166": {
       "estimate_exact": true,
       "estimated_threads": 8,
-      "name": "Project RE:LOVE and The Outlet"
+      "name": "Project RE:LOVE and The Outlet",
+      "pages": 1
     },
     "167": {
       "estimate_exact": true,
@@ -358,12 +362,14 @@
     "30": {
       "estimate_exact": true,
       "estimated_threads": 19,
-      "name": "Triple Works › Bottoms"
+      "name": "Triple Works › Bottoms",
+      "pages": 1
     },
     "31": {
       "estimate_exact": true,
       "estimated_threads": 18,
-      "name": "Triple Works › Shirting"
+      "name": "Triple Works › Shirting",
+      "pages": 1
     },
     "319": {
       "estimate_exact": true,
@@ -393,7 +399,8 @@
     "329": {
       "estimate_exact": true,
       "estimated_threads": 7,
-      "name": "Andersen-Andersen Knitwear"
+      "name": "Andersen-Andersen Knitwear",
+      "pages": 1
     },
     "33": {
       "estimate_exact": true,
@@ -403,7 +410,8 @@
     "34": {
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Triple Works › Jackets"
+      "name": "Triple Works › Jackets",
+      "pages": 1
     },
     "35": {
       "estimate_exact": true,
@@ -418,7 +426,8 @@
     "38": {
       "estimate_exact": true,
       "estimated_threads": 7,
-      "name": "Triple Works › Cut & Sewn"
+      "name": "Triple Works › Cut & Sewn",
+      "pages": 1
     },
     "39": {
       "estimate_exact": true,
@@ -758,6 +767,27 @@
         3
       ]
     },
+    "ironheart:19183": {
+      "fetched_at": "2026-11-09T20:04:27Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19586": {
+      "fetched_at": "2026-11-09T20:04:15Z",
+      "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19600": {
+      "fetched_at": "2026-11-09T20:04:18Z",
+      "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:20391": {
       "fetched_at": "2026-11-08T17:37:41Z",
       "page_count": 4,
@@ -772,6 +802,13 @@
         1
       ]
     },
+    "ironheart:35": {
+      "fetched_at": "2026-11-09T20:04:24Z",
+      "page_count": 230,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:4074": {
       "fetched_at": "2026-11-09T07:03:18Z",
       "page_count": 13,
@@ -780,11 +817,12 @@
       ]
     },
     "ironheart:487": {
-      "fetched_at": "2026-11-09T07:03:33Z",
+      "fetched_at": "2026-11-09T20:04:30Z",
       "page_count": 247,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:6291": {
@@ -817,16 +855,17 @@
       ]
     },
     "ironheart:97": {
-      "fetched_at": "2026-11-09T07:03:21Z",
+      "fetched_at": "2026-11-09T20:04:21Z",
       "page_count": 462,
       "pages": [
-        1
+        1,
+        2
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-09T07:01:54Z",
+  "recent_refreshed_at": "2026-11-09T20:02:51Z",
   "status": "ok",
   "top": {
-    "cursor": 72
+    "cursor": 106
   }
 }
