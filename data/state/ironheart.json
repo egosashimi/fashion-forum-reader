@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 8,
-    "page": 12,
-    "pages_walked": 75,
+    "node_index": 10,
+    "page": 4,
+    "pages_walked": 90,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-09T20:02:45Z",
+  "last_attempt_at": "2026-11-10T03:45:08Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-09T20:04:30Z",
+    "at": "2026-11-10T03:46:53Z",
     "new_posts": 120,
-    "new_threads": 307,
+    "new_threads": 279,
     "requests": 36,
-    "updated_threads": 125
+    "updated_threads": 183
   },
-  "last_success_at": "2026-11-09T20:04:30Z",
+  "last_success_at": "2026-11-10T03:46:53Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -37,7 +37,9 @@
       "name": "Spring Summer 2020 › SS20 - Jackets"
     },
     "11": {
-      "backfill_page": 11,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T03:46:14Z",
+      "backfill_page": 19,
       "estimate_exact": true,
       "estimated_threads": 380,
       "name": "Jackets",
@@ -89,6 +91,7 @@
       "name": "Fall Winter 2020 › FW20 - Knits & Sweats"
     },
     "12": {
+      "backfill_page": 3,
       "estimate_exact": true,
       "estimated_threads": 433,
       "name": "Cut & Sewn",
@@ -312,7 +315,8 @@
     "205": {
       "estimate_exact": true,
       "estimated_threads": 18,
-      "name": "ROTOTO"
+      "name": "ROTOTO",
+      "pages": 1
     },
     "21": {
       "estimate_exact": true,
@@ -384,7 +388,8 @@
     "326": {
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Pisgah Range"
+      "name": "Pisgah Range",
+      "pages": 1
     },
     "327": {
       "estimate_exact": true,
@@ -394,7 +399,8 @@
     "328": {
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Addict Boots Japan"
+      "name": "Addict Boots Japan",
+      "pages": 1
     },
     "329": {
       "estimate_exact": true,
@@ -435,6 +441,9 @@
       "name": "What Are You Wearing Today (WAYWT)"
     },
     "41": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T03:46:26Z",
+      "backfill_page": 4,
       "estimate_exact": true,
       "estimated_threads": 65,
       "name": "Vests",
@@ -443,7 +452,8 @@
     "44": {
       "estimate_exact": true,
       "estimated_threads": 238,
-      "name": "Obbi Good Label"
+      "name": "Obbi Good Label",
+      "pages": 12
     },
     "46": {
       "estimate_exact": true,
@@ -774,6 +784,13 @@
         1
       ]
     },
+    "ironheart:19567": {
+      "fetched_at": "2026-11-10T03:46:50Z",
+      "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:19586": {
       "fetched_at": "2026-11-09T20:04:15Z",
       "page_count": 2,
@@ -789,17 +806,19 @@
       ]
     },
     "ironheart:20391": {
-      "fetched_at": "2026-11-08T17:37:41Z",
-      "page_count": 4,
+      "fetched_at": "2026-11-10T03:46:44Z",
+      "page_count": 5,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:3190": {
-      "fetched_at": "2026-11-09T07:03:24Z",
+      "fetched_at": "2026-11-10T03:46:38Z",
       "page_count": 14,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:35": {
@@ -847,6 +866,20 @@
         1
       ]
     },
+    "ironheart:7378": {
+      "fetched_at": "2026-11-10T03:46:41Z",
+      "page_count": 196,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:7761": {
+      "fetched_at": "2026-11-10T03:46:53Z",
+      "page_count": 36,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:9500": {
       "fetched_at": "2026-11-09T07:03:30Z",
       "page_count": 23,
@@ -855,17 +888,18 @@
       ]
     },
     "ironheart:97": {
-      "fetched_at": "2026-11-09T20:04:21Z",
+      "fetched_at": "2026-11-10T03:46:47Z",
       "page_count": 462,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-09T20:02:51Z",
+  "recent_refreshed_at": "2026-11-10T03:45:14Z",
   "status": "ok",
   "top": {
-    "cursor": 106
+    "cursor": 132
   }
 }
