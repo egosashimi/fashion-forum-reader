@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 10,
-    "page": 19,
-    "pages_walked": 105,
+    "node_index": 14,
+    "page": 1,
+    "pages_walked": 120,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-10T15:10:01Z",
+  "last_attempt_at": "2026-11-10T21:27:04Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T15:11:47Z",
-    "new_posts": 119,
-    "new_threads": 374,
+    "at": "2026-11-10T21:28:50Z",
+    "new_posts": 113,
+    "new_threads": 263,
     "requests": 36,
-    "updated_threads": 141
+    "updated_threads": 254
   },
-  "last_success_at": "2026-11-10T15:11:47Z",
+  "last_success_at": "2026-11-10T21:28:50Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -91,7 +91,9 @@
       "name": "Fall Winter 2020 › FW20 - Knits & Sweats"
     },
     "12": {
-      "backfill_page": 18,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T21:27:59Z",
+      "backfill_page": 22,
       "estimate_exact": true,
       "estimated_threads": 433,
       "name": "Cut & Sewn",
@@ -133,6 +135,9 @@
       "name": "Spring Summer 2022 - Bottoms"
     },
     "13": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T21:28:26Z",
+      "backfill_page": 9,
       "estimate_exact": true,
       "estimated_threads": 175,
       "name": "Hardware",
@@ -242,6 +247,9 @@
       "name": "Past Seasons Collections › Fall/Winter 2023"
     },
     "166": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T21:28:29Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 8,
       "name": "Project RE:LOVE and The Outlet",
@@ -364,6 +372,9 @@
       "name": "General Chat"
     },
     "30": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-10T21:28:32Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 19,
       "name": "Triple Works › Bottoms",
@@ -611,7 +622,8 @@
     "78": {
       "estimate_exact": true,
       "estimated_threads": 50,
-      "name": "GOOD ART HLYWD › Pendants"
+      "name": "GOOD ART HLYWD › Pendants",
+      "pages": 3
     },
     "79": {
       "estimate_exact": true,
@@ -638,7 +650,8 @@
     "82": {
       "estimate_exact": true,
       "estimated_threads": 88,
-      "name": "GOOD ART HLYWD › Other Accessories"
+      "name": "GOOD ART HLYWD › Other Accessories",
+      "pages": 5
     },
     "83": {
       "estimate_exact": true,
@@ -817,8 +830,23 @@
       ]
     },
     "ironheart:19600": {
-      "fetched_at": "2026-11-09T20:04:18Z",
-      "page_count": 3,
+      "fetched_at": "2026-11-10T21:28:35Z",
+      "page_count": 4,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:19641": {
+      "fetched_at": "2026-11-10T21:28:44Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19651": {
+      "fetched_at": "2026-11-10T21:28:50Z",
+      "page_count": 1,
       "pages": [
         1
       ]
@@ -831,11 +859,12 @@
       ]
     },
     "ironheart:20391": {
-      "fetched_at": "2026-11-10T03:46:44Z",
+      "fetched_at": "2026-11-10T21:28:41Z",
       "page_count": 5,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:3190": {
@@ -844,6 +873,13 @@
       "pages": [
         1,
         2
+      ]
+    },
+    "ironheart:3249": {
+      "fetched_at": "2026-11-10T21:28:38Z",
+      "page_count": 9,
+      "pages": [
+        1
       ]
     },
     "ironheart:35": {
@@ -861,10 +897,11 @@
       ]
     },
     "ironheart:44": {
-      "fetched_at": "2026-11-10T15:11:44Z",
+      "fetched_at": "2026-11-10T21:28:47Z",
       "page_count": 243,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:487": {
@@ -943,9 +980,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T15:10:08Z",
+  "recent_refreshed_at": "2026-11-10T21:27:11Z",
   "status": "ok",
   "top": {
-    "cursor": 154
+    "cursor": 168
   }
 }
