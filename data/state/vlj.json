@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 73,
-    "pages_walked": 72,
+    "page": 85,
+    "pages_walked": 84,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-10T03:42:52Z",
+  "last_attempt_at": "2026-11-10T15:07:46Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T03:45:07Z",
-    "new_posts": 84,
-    "new_threads": 390,
+    "at": "2026-11-10T15:10:01Z",
+    "new_posts": 101,
+    "new_threads": 389,
     "requests": 46,
-    "updated_threads": 413
+    "updated_threads": 412
   },
-  "last_success_at": "2026-11-10T03:45:07Z",
+  "last_success_at": "2026-11-10T15:10:01Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -29,6 +29,12 @@
       "name": "Cloth",
       "pages": 31
     },
+    "ebay-auction-talk.20": {
+      "estimate_exact": false,
+      "estimated_threads": 5380,
+      "name": "eBay / Auction Talk",
+      "pages": 269
+    },
     "foreign-flight-jackets.12": {
       "estimate_exact": false,
       "estimated_threads": 120,
@@ -36,7 +42,7 @@
       "pages": 6
     },
     "general-flight-jacket-discussion.5": {
-      "backfill_page": 72,
+      "backfill_page": 84,
       "estimate_exact": false,
       "estimated_threads": 3720,
       "name": "General Flight Jacket Discussion",
@@ -65,6 +71,12 @@
       "estimated_threads": 660,
       "name": "Nylon",
       "pages": 33
+    },
+    "photo-gallery-forum.3": {
+      "estimate_exact": false,
+      "estimated_threads": 1300,
+      "name": "Photo Gallery",
+      "pages": 65
     },
     "related-gear.16": {
       "estimate_exact": false,
@@ -102,11 +114,12 @@
       ]
     },
     "vlj:20865": {
-      "fetched_at": "2026-11-10T03:44:58Z",
+      "fetched_at": "2026-11-10T15:09:46Z",
       "page_count": 56,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:20971": {
@@ -119,8 +132,16 @@
       ]
     },
     "vlj:21131": {
-      "fetched_at": "2026-11-10T03:45:07Z",
+      "fetched_at": "2026-11-10T15:09:58Z",
       "page_count": 53,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "vlj:21625": {
+      "fetched_at": "2026-11-10T15:10:01Z",
+      "page_count": 58,
       "pages": [
         1
       ]
@@ -168,6 +189,13 @@
         3
       ]
     },
+    "vlj:27174": {
+      "fetched_at": "2026-11-10T15:09:49Z",
+      "page_count": 16,
+      "pages": [
+        1
+      ]
+    },
     "vlj:28234": {
       "fetched_at": "2026-11-09T20:02:45Z",
       "page_count": 3,
@@ -192,10 +220,11 @@
       ]
     },
     "vlj:42591": {
-      "fetched_at": "2026-11-10T03:44:52Z",
+      "fetched_at": "2026-11-10T15:09:55Z",
       "page_count": 6,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:43150": {
@@ -253,11 +282,19 @@
       "pages": [
         1
       ]
+    },
+    "vlj:43184": {
+      "fetched_at": "2026-11-10T15:09:53Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T03:43:37Z",
+  "recent_refreshed_at": "2026-11-10T15:08:31Z",
   "status": "ok",
   "top": {
-    "cursor": 72
+    "cursor": 0,
+    "refreshed_at": "2026-11-10T15:09:07Z"
   }
 }

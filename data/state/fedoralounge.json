@@ -2,23 +2,23 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 73,
-    "pages_walked": 72,
+    "page": 85,
+    "pages_walked": 84,
     "started_at": "2026-11-08T17:14:01Z"
   },
-  "last_attempt_at": "2026-11-10T03:39:34Z",
+  "last_attempt_at": "2026-11-10T15:04:29Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T03:40:35Z",
-    "new_posts": 120,
-    "new_threads": 240,
+    "at": "2026-11-10T15:05:29Z",
+    "new_posts": 102,
+    "new_threads": 241,
     "requests": 21,
-    "updated_threads": 42
+    "updated_threads": 41
   },
-  "last_success_at": "2026-11-10T03:40:35Z",
+  "last_success_at": "2026-11-10T15:05:29Z",
   "nodes": {
     "outerwear-and-workwear.4": {
-      "backfill_page": 72,
+      "backfill_page": 84,
       "estimate_exact": false,
       "estimated_threads": 16980,
       "name": "Outerwear and Workwear",
@@ -36,18 +36,20 @@
       ]
     },
     "fedoralounge:102916": {
-      "fetched_at": "2026-11-10T03:40:31Z",
+      "fetched_at": "2026-11-10T15:05:20Z",
       "page_count": 259,
-      "pages": [
-        1
-      ]
-    },
-    "fedoralounge:103667": {
-      "fetched_at": "2026-11-09T19:56:45Z",
-      "page_count": 50,
       "pages": [
         1,
         2
+      ]
+    },
+    "fedoralounge:103667": {
+      "fetched_at": "2026-11-10T15:05:14Z",
+      "page_count": 50,
+      "pages": [
+        1,
+        2,
+        3
       ]
     },
     "fedoralounge:110416": {
@@ -130,6 +132,20 @@
         1
       ]
     },
+    "fedoralounge:124323": {
+      "fetched_at": "2026-11-10T15:05:17Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "fedoralounge:35997": {
+      "fetched_at": "2026-11-10T15:05:29Z",
+      "page_count": 170,
+      "pages": [
+        1
+      ]
+    },
     "fedoralounge:70770": {
       "fetched_at": "2026-11-10T03:40:25Z",
       "page_count": 330,
@@ -158,10 +174,11 @@
       ]
     },
     "fedoralounge:89923": {
-      "fetched_at": "2026-11-10T03:40:35Z",
+      "fetched_at": "2026-11-10T15:05:26Z",
       "page_count": 218,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "fedoralounge:91962": {
@@ -181,9 +198,16 @@
         2,
         3
       ]
+    },
+    "fedoralounge:97637": {
+      "fetched_at": "2026-11-10T15:05:23Z",
+      "page_count": 11,
+      "pages": [
+        1
+      ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T03:39:40Z",
+  "recent_refreshed_at": "2026-11-10T15:04:35Z",
   "status": "ok",
   "top": {
     "cursor": 0,

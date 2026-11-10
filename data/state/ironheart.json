@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 10,
-    "page": 4,
-    "pages_walked": 90,
+    "page": 19,
+    "pages_walked": 105,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-10T03:45:08Z",
+  "last_attempt_at": "2026-11-10T15:10:01Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T03:46:53Z",
-    "new_posts": 120,
-    "new_threads": 279,
+    "at": "2026-11-10T15:11:47Z",
+    "new_posts": 119,
+    "new_threads": 374,
     "requests": 36,
-    "updated_threads": 183
+    "updated_threads": 141
   },
-  "last_success_at": "2026-11-10T03:46:53Z",
+  "last_success_at": "2026-11-10T15:11:47Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -91,7 +91,7 @@
       "name": "Fall Winter 2020 › FW20 - Knits & Sweats"
     },
     "12": {
-      "backfill_page": 3,
+      "backfill_page": 18,
       "estimate_exact": true,
       "estimated_threads": 433,
       "name": "Cut & Sewn",
@@ -556,7 +556,8 @@
     "69": {
       "estimate_exact": true,
       "estimated_threads": 17,
-      "name": "GOOD ART HLYWD"
+      "name": "GOOD ART HLYWD",
+      "pages": 1
     },
     "7": {
       "backfill_done": true,
@@ -625,12 +626,14 @@
     "80": {
       "estimate_exact": true,
       "estimated_threads": 24,
-      "name": "GOOD ART HLYWD › Chains"
+      "name": "GOOD ART HLYWD › Chains",
+      "pages": 2
     },
     "81": {
       "estimate_exact": true,
       "estimated_threads": 17,
-      "name": "GOOD ART HLYWD › Keychains"
+      "name": "GOOD ART HLYWD › Keychains",
+      "pages": 1
     },
     "82": {
       "estimate_exact": true,
@@ -640,7 +643,8 @@
     "83": {
       "estimate_exact": true,
       "estimated_threads": 38,
-      "name": "GOOD ART HLYWD › Bracelets"
+      "name": "GOOD ART HLYWD › Bracelets",
+      "pages": 2
     },
     "86": {
       "backfill_done": true,
@@ -761,6 +765,13 @@
         1
       ]
     },
+    "ironheart:17480": {
+      "fetched_at": "2026-11-10T15:11:41Z",
+      "page_count": 6,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:17505": {
       "fetched_at": "2026-11-08T22:26:05Z",
       "page_count": 19,
@@ -784,6 +795,13 @@
         1
       ]
     },
+    "ironheart:19452": {
+      "fetched_at": "2026-11-10T15:11:38Z",
+      "page_count": 4,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:19567": {
       "fetched_at": "2026-11-10T03:46:50Z",
       "page_count": 3,
@@ -801,6 +819,13 @@
     "ironheart:19600": {
       "fetched_at": "2026-11-09T20:04:18Z",
       "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19725": {
+      "fetched_at": "2026-11-10T15:11:47Z",
+      "page_count": 4,
       "pages": [
         1
       ]
@@ -835,6 +860,13 @@
         1
       ]
     },
+    "ironheart:44": {
+      "fetched_at": "2026-11-10T15:11:44Z",
+      "page_count": 243,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:487": {
       "fetched_at": "2026-11-09T20:04:30Z",
       "page_count": 247,
@@ -842,6 +874,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:5302": {
+      "fetched_at": "2026-11-10T15:11:32Z",
+      "page_count": 141,
+      "pages": [
+        1
       ]
     },
     "ironheart:6291": {
@@ -880,6 +919,13 @@
         1
       ]
     },
+    "ironheart:80": {
+      "fetched_at": "2026-11-10T15:11:35Z",
+      "page_count": 9,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:9500": {
       "fetched_at": "2026-11-09T07:03:30Z",
       "page_count": 23,
@@ -897,9 +943,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T03:45:14Z",
+  "recent_refreshed_at": "2026-11-10T15:10:08Z",
   "status": "ok",
   "top": {
-    "cursor": 132
+    "cursor": 154
   }
 }
