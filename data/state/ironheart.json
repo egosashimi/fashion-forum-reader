@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 14,
-    "page": 1,
-    "pages_walked": 120,
+    "node_index": 21,
+    "page": 9,
+    "pages_walked": 135,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-10T21:27:04Z",
+  "last_attempt_at": "2026-11-11T01:27:55Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T21:28:50Z",
-    "new_posts": 113,
-    "new_threads": 263,
+    "at": "2026-11-11T01:29:40Z",
+    "new_posts": 120,
+    "new_threads": 214,
     "requests": 36,
-    "updated_threads": 254
+    "updated_threads": 176
   },
-  "last_success_at": "2026-11-10T21:28:50Z",
+  "last_success_at": "2026-11-11T01:29:40Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -181,7 +181,8 @@
     "141": {
       "estimate_exact": true,
       "estimated_threads": 47,
-      "name": "SaturdayTypeFever"
+      "name": "SaturdayTypeFever",
+      "pages": 3
     },
     "142": {
       "estimate_exact": true,
@@ -321,6 +322,9 @@
       "name": "Fall/Winter 2024 - Knits & Sweats"
     },
     "205": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:58Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 18,
       "name": "ROTOTO",
@@ -381,6 +385,9 @@
       "pages": 1
     },
     "31": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:40Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 18,
       "name": "Triple Works › Shirting",
@@ -397,6 +404,9 @@
       "name": "Accessories"
     },
     "326": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:55Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
       "name": "Pisgah Range",
@@ -408,12 +418,18 @@
       "name": "Future and Planned Products › Fall/Winter 2026 Collection"
     },
     "328": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:52Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
       "name": "Addict Boots Japan",
       "pages": 1
     },
     "329": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:49Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 7,
       "name": "Andersen-Andersen Knitwear",
@@ -425,6 +441,9 @@
       "name": "The Resource Centre"
     },
     "34": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:43Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
       "name": "Triple Works › Jackets",
@@ -441,6 +460,9 @@
       "name": "Heavy Weight Contests & Competitions"
     },
     "38": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T01:28:46Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 7,
       "name": "Triple Works › Cut & Sewn",
@@ -461,6 +483,7 @@
       "pages": 4
     },
     "44": {
+      "backfill_page": 8,
       "estimate_exact": true,
       "estimated_threads": 238,
       "name": "Obbi Good Label",
@@ -612,12 +635,14 @@
     "76": {
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "GOOD ART HLYWD › Wallets"
+      "name": "GOOD ART HLYWD › Wallets",
+      "pages": 1
     },
     "77": {
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "GOOD ART HLYWD › Wallet Chains"
+      "name": "GOOD ART HLYWD › Wallet Chains",
+      "pages": 1
     },
     "78": {
       "estimate_exact": true,
@@ -628,7 +653,8 @@
     "79": {
       "estimate_exact": true,
       "estimated_threads": 36,
-      "name": "GOOD ART HLYWD › Rings"
+      "name": "GOOD ART HLYWD › Rings",
+      "pages": 2
     },
     "8": {
       "estimate_exact": true,
@@ -755,6 +781,20 @@
         1
       ]
     },
+    "ironheart:12515": {
+      "fetched_at": "2026-11-11T01:29:28Z",
+      "page_count": 201,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:13534": {
+      "fetched_at": "2026-11-11T01:29:40Z",
+      "page_count": 71,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:15734": {
       "fetched_at": "2026-11-08T22:25:53Z",
       "page_count": 2,
@@ -830,11 +870,19 @@
       ]
     },
     "ironheart:19600": {
-      "fetched_at": "2026-11-10T21:28:35Z",
+      "fetched_at": "2026-11-11T01:29:31Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
+      ]
+    },
+    "ironheart:19634": {
+      "fetched_at": "2026-11-11T01:29:34Z",
+      "page_count": 2,
+      "pages": [
+        1
       ]
     },
     "ironheart:19641": {
@@ -867,6 +915,13 @@
         3
       ]
     },
+    "ironheart:2057": {
+      "fetched_at": "2026-11-11T01:29:37Z",
+      "page_count": 72,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:3190": {
       "fetched_at": "2026-11-10T03:46:38Z",
       "page_count": 14,
@@ -876,10 +931,11 @@
       ]
     },
     "ironheart:3249": {
-      "fetched_at": "2026-11-10T21:28:38Z",
+      "fetched_at": "2026-11-11T01:29:25Z",
       "page_count": 9,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:35": {
@@ -980,9 +1036,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T21:27:11Z",
+  "recent_refreshed_at": "2026-11-11T01:28:01Z",
   "status": "ok",
   "top": {
-    "cursor": 168
+    "cursor": 190
   }
 }

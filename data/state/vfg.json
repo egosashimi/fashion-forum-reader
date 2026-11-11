@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 97,
-    "pages_walked": 96,
+    "page": 109,
+    "pages_walked": 108,
     "started_at": "2026-11-08T17:17:06Z"
   },
-  "last_attempt_at": "2026-11-10T21:24:10Z",
+  "last_attempt_at": "2026-11-11T01:25:00Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-10T21:25:25Z",
-    "new_posts": 84,
-    "new_threads": 299,
+    "at": "2026-11-11T01:26:16Z",
+    "new_posts": 101,
+    "new_threads": 301,
     "requests": 26,
-    "updated_threads": 145
+    "updated_threads": 144
   },
-  "last_success_at": "2026-11-10T21:25:25Z",
+  "last_success_at": "2026-11-11T01:26:16Z",
   "nodes": {
     "public-labels-for-the-label-resource-add-here.41": {
       "estimate_exact": false,
@@ -42,7 +42,7 @@
       "pages": 202
     },
     "public-vintage-fashion-ask-questions-get-answers.39": {
-      "backfill_page": 96,
+      "backfill_page": 108,
       "estimate_exact": false,
       "estimated_threads": 16060,
       "name": "Ask Questions Get Answers",
@@ -74,6 +74,13 @@
         3
       ]
     },
+    "vfg:41591": {
+      "fetched_at": "2026-11-11T01:26:16Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
     "vfg:46451": {
       "fetched_at": "2026-11-08T22:21:55Z",
       "page_count": 12,
@@ -84,10 +91,11 @@
       ]
     },
     "vfg:58338": {
-      "fetched_at": "2026-11-10T21:25:25Z",
+      "fetched_at": "2026-11-11T01:26:13Z",
       "page_count": 5,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vfg:61696": {
@@ -118,10 +126,11 @@
       ]
     },
     "vfg:79089": {
-      "fetched_at": "2026-11-10T21:25:22Z",
+      "fetched_at": "2026-11-11T01:26:10Z",
       "page_count": 5,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vfg:79309": {
@@ -152,11 +161,12 @@
       ]
     },
     "vfg:86489": {
-      "fetched_at": "2026-11-10T21:25:16Z",
+      "fetched_at": "2026-11-11T01:26:03Z",
       "page_count": 5,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vfg:88294": {
@@ -264,16 +274,24 @@
         1
       ]
     },
+    "vfg:88317": {
+      "fetched_at": "2026-11-11T01:26:00Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vfg:9332": {
-      "fetched_at": "2026-11-10T21:25:19Z",
+      "fetched_at": "2026-11-11T01:26:07Z",
       "page_count": 5,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-10T21:24:31Z",
+  "recent_refreshed_at": "2026-11-11T01:25:22Z",
   "status": "ok",
   "top": {
     "cursor": 0,
