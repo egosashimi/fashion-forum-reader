@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 21,
-    "page": 9,
-    "pages_walked": 135,
+    "node_index": 27,
+    "page": 1,
+    "pages_walked": 150,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-11T01:27:55Z",
+  "last_attempt_at": "2026-11-11T11:20:42Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-11T01:29:40Z",
+    "at": "2026-11-11T11:22:27Z",
     "new_posts": 120,
-    "new_threads": 214,
+    "new_threads": 142,
     "requests": 36,
-    "updated_threads": 176
+    "updated_threads": 329
   },
-  "last_success_at": "2026-11-11T01:29:40Z",
+  "last_success_at": "2026-11-11T11:22:27Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -187,7 +187,8 @@
     "142": {
       "estimate_exact": true,
       "estimated_threads": 71,
-      "name": "Porter - Yoshida & Co."
+      "name": "Porter - Yoshida & Co.",
+      "pages": 4
     },
     "143": {
       "estimate_exact": true,
@@ -289,12 +290,14 @@
     "197": {
       "estimate_exact": true,
       "estimated_threads": 5,
-      "name": "Utilitees"
+      "name": "Utilitees",
+      "pages": 1
     },
     "198": {
       "estimate_exact": true,
       "estimated_threads": 16,
-      "name": "Decka"
+      "name": "Decka",
+      "pages": 1
     },
     "199": {
       "estimate_exact": true,
@@ -483,7 +486,9 @@
       "pages": 4
     },
     "44": {
-      "backfill_page": 8,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:21:36Z",
+      "backfill_page": 12,
       "estimate_exact": true,
       "estimated_threads": 238,
       "name": "Obbi Good Label",
@@ -588,6 +593,9 @@
       "name": "Spring Summer 2018 › SS18 - Bottoms"
     },
     "69": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:21:39Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 17,
       "name": "GOOD ART HLYWD",
@@ -662,24 +670,36 @@
       "name": "Footwear"
     },
     "80": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:21:51Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 24,
       "name": "GOOD ART HLYWD › Chains",
       "pages": 2
     },
     "81": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:21:54Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 17,
       "name": "GOOD ART HLYWD › Keychains",
       "pages": 1
     },
     "82": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:22:09Z",
+      "backfill_page": 5,
       "estimate_exact": true,
       "estimated_threads": 88,
       "name": "GOOD ART HLYWD › Other Accessories",
       "pages": 5
     },
     "83": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-11T11:21:45Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 38,
       "name": "GOOD ART HLYWD › Bracelets",
@@ -772,6 +792,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:11447": {
+      "fetched_at": "2026-11-11T11:22:15Z",
+      "page_count": 96,
+      "pages": [
+        1
       ]
     },
     "ironheart:12509": {
@@ -869,6 +896,13 @@
         1
       ]
     },
+    "ironheart:19597": {
+      "fetched_at": "2026-11-11T11:22:18Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:19600": {
       "fetched_at": "2026-11-11T01:29:31Z",
       "page_count": 4,
@@ -906,6 +940,13 @@
         1
       ]
     },
+    "ironheart:19933": {
+      "fetched_at": "2026-11-11T11:22:12Z",
+      "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:20391": {
       "fetched_at": "2026-11-10T21:28:41Z",
       "page_count": 5,
@@ -939,10 +980,11 @@
       ]
     },
     "ironheart:35": {
-      "fetched_at": "2026-11-09T20:04:24Z",
+      "fetched_at": "2026-11-11T11:22:24Z",
       "page_count": 230,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:4074": {
@@ -953,11 +995,12 @@
       ]
     },
     "ironheart:44": {
-      "fetched_at": "2026-11-10T21:28:47Z",
+      "fetched_at": "2026-11-11T11:22:27Z",
       "page_count": 243,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:487": {
@@ -989,6 +1032,13 @@
       "pages": [
         1,
         2
+      ]
+    },
+    "ironheart:68": {
+      "fetched_at": "2026-11-11T11:22:21Z",
+      "page_count": 13,
+      "pages": [
+        1
       ]
     },
     "ironheart:6911": {
@@ -1036,9 +1086,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-11T01:28:01Z",
+  "recent_refreshed_at": "2026-11-11T11:20:48Z",
   "status": "ok",
   "top": {
-    "cursor": 190
+    "cursor": 208
   }
 }
