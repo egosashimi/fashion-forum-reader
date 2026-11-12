@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 48,
+    "node_index": 63,
     "page": 1,
-    "pages_walked": 180,
+    "pages_walked": 195,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-12T02:25:58Z",
+  "last_attempt_at": "2026-11-12T11:38:17Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-12T02:27:43Z",
-    "new_posts": 120,
-    "new_threads": 48,
+    "at": "2026-11-12T11:40:02Z",
+    "new_posts": 99,
+    "new_threads": 57,
     "requests": 36,
-    "updated_threads": 181
+    "updated_threads": 68
   },
-  "last_success_at": "2026-11-12T02:27:43Z",
+  "last_success_at": "2026-11-12T11:40:02Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -105,9 +105,13 @@
       "name": "Past Seasons Collections › Spring Summer 2021"
     },
     "123": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:41Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "Past Seasons Collections › Fall Winter 2021"
+      "name": "Past Seasons Collections › Fall Winter 2021",
+      "pages": 1
     },
     "124": {
       "estimate_exact": true,
@@ -120,19 +124,31 @@
       "name": "Fall Winter 2021 - Vests"
     },
     "127": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:44Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Fall Winter 2021 - Knits & Sweats"
+      "name": "Fall Winter 2021 - Knits & Sweats",
+      "pages": 1
     },
     "128": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:23Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "Past Seasons Collections › Spring Summer 2022"
+      "name": "Past Seasons Collections › Spring Summer 2022",
+      "pages": 1
     },
     "129": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:26Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Spring Summer 2022 - Bottoms"
+      "name": "Spring Summer 2022 - Bottoms",
+      "pages": 1
     },
     "13": {
       "backfill_done": true,
@@ -144,24 +160,40 @@
       "pages": 9
     },
     "130": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:35Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "Spring Summer 2022 - Shirts"
+      "name": "Spring Summer 2022 - Shirts",
+      "pages": 1
     },
     "131": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:29Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Spring Summer 2022 - Jackets"
+      "name": "Spring Summer 2022 - Jackets",
+      "pages": 1
     },
     "132": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:38Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Spring Summer 2022 - Knits & Sweats"
+      "name": "Spring Summer 2022 - Knits & Sweats",
+      "pages": 1
     },
     "133": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:32Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Spring Summer 2022 - Vests"
+      "name": "Spring Summer 2022 - Vests",
+      "pages": 1
     },
     "136": {
       "estimate_exact": true,
@@ -169,14 +201,22 @@
       "name": "Iron Cast"
     },
     "137": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:17Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Fall/Winter 2022"
+      "name": "Past Seasons Collections › Fall/Winter 2022",
+      "pages": 1
     },
     "138": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:20Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 10,
-      "name": "Fall/Winter 2022 - Jackets"
+      "name": "Fall/Winter 2022 - Jackets",
+      "pages": 1
     },
     "141": {
       "backfill_done": true,
@@ -197,19 +237,31 @@
       "pages": 4
     },
     "143": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:08Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Past Seasons Collections › Spring/Summer 2023"
+      "name": "Past Seasons Collections › Spring/Summer 2023",
+      "pages": 1
     },
     "145": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:14Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 8,
-      "name": "Spring/Summer 2023 - Shirts"
+      "name": "Spring/Summer 2023 - Shirts",
+      "pages": 1
     },
     "146": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:11Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 9,
-      "name": "Spring/Summer 2023 - Bottoms"
+      "name": "Spring/Summer 2023 - Bottoms",
+      "pages": 1
     },
     "148": {
       "backfill_done": true,
@@ -254,9 +306,13 @@
       "name": "City Guides"
     },
     "161": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:05Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Fall/Winter 2023"
+      "name": "Past Seasons Collections › Fall/Winter 2023",
+      "pages": 1
     },
     "166": {
       "backfill_done": true,
@@ -291,9 +347,13 @@
       "pages": 1
     },
     "174": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T11:39:02Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Spring/Summer 2024 - Shirts"
+      "name": "Spring/Summer 2024 - Shirts",
+      "pages": 1
     },
     "18": {
       "estimate_exact": true,
@@ -419,7 +479,7 @@
     },
     "3": {
       "estimate_exact": true,
-      "estimated_threads": 436,
+      "estimated_threads": 437,
       "name": "General Chat"
     },
     "30": {
@@ -915,10 +975,11 @@
       ]
     },
     "ironheart:14034": {
-      "fetched_at": "2026-11-12T02:27:28Z",
+      "fetched_at": "2026-11-12T11:39:56Z",
       "page_count": 7,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:15734": {
@@ -967,6 +1028,13 @@
         3
       ]
     },
+    "ironheart:18887": {
+      "fetched_at": "2026-11-12T11:40:02Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:19183": {
       "fetched_at": "2026-11-09T20:04:27Z",
       "page_count": 5,
@@ -998,6 +1066,13 @@
     "ironheart:19597": {
       "fetched_at": "2026-11-11T11:22:18Z",
       "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19599": {
+      "fetched_at": "2026-11-12T11:39:59Z",
+      "page_count": 1,
       "pages": [
         1
       ]
@@ -1042,6 +1117,13 @@
     "ironheart:19933": {
       "fetched_at": "2026-11-11T11:22:12Z",
       "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:2": {
+      "fetched_at": "2026-11-12T11:39:47Z",
+      "page_count": 177,
       "pages": [
         1
       ]
@@ -1147,6 +1229,13 @@
         2
       ]
     },
+    "ironheart:5548": {
+      "fetched_at": "2026-11-12T11:39:53Z",
+      "page_count": 10,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:5615": {
       "fetched_at": "2026-11-11T19:54:28Z",
       "page_count": 121,
@@ -1218,6 +1307,13 @@
         1
       ]
     },
+    "ironheart:96": {
+      "fetched_at": "2026-11-12T11:39:50Z",
+      "page_count": 1406,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:97": {
       "fetched_at": "2026-11-10T03:46:47Z",
       "page_count": 462,
@@ -1228,9 +1324,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-12T02:26:04Z",
+  "recent_refreshed_at": "2026-11-12T11:38:23Z",
   "status": "ok",
   "top": {
-    "cursor": 274
+    "cursor": 322
   }
 }

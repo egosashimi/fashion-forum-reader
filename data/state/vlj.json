@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 145,
-    "pages_walked": 144,
+    "page": 157,
+    "pages_walked": 156,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-12T02:24:18Z",
+  "last_attempt_at": "2026-11-12T11:36:31Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-12T02:25:57Z",
-    "new_posts": 111,
-    "new_threads": 234,
+    "at": "2026-11-12T11:38:16Z",
+    "new_posts": 90,
+    "new_threads": 237,
     "requests": 34,
-    "updated_threads": 325
+    "updated_threads": 322
   },
-  "last_success_at": "2026-11-12T02:25:57Z",
+  "last_success_at": "2026-11-12T11:38:16Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -42,7 +42,7 @@
       "pages": 6
     },
     "general-flight-jacket-discussion.5": {
-      "backfill_page": 144,
+      "backfill_page": 156,
       "estimate_exact": false,
       "estimated_threads": 3720,
       "name": "General Flight Jacket Discussion",
@@ -150,10 +150,11 @@
       ]
     },
     "vlj:21478": {
-      "fetched_at": "2026-11-12T02:25:54Z",
+      "fetched_at": "2026-11-12T11:38:12Z",
       "page_count": 40,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:21625": {
@@ -175,10 +176,11 @@
       ]
     },
     "vlj:22890": {
-      "fetched_at": "2026-11-12T02:25:57Z",
+      "fetched_at": "2026-11-12T11:38:16Z",
       "page_count": 38,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:23178": {
@@ -268,16 +270,24 @@
       ]
     },
     "vlj:315": {
-      "fetched_at": "2026-11-12T02:25:51Z",
+      "fetched_at": "2026-11-12T11:38:09Z",
       "page_count": 45,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:33467": {
       "fetched_at": "2026-11-09T07:01:32Z",
       "page_count": 26,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:40855": {
+      "fetched_at": "2026-11-12T11:38:07Z",
+      "page_count": 4,
       "pages": [
         1
       ]
@@ -288,6 +298,13 @@
       "pages": [
         1,
         2
+      ]
+    },
+    "vlj:42934": {
+      "fetched_at": "2026-11-12T11:38:00Z",
+      "page_count": 1,
+      "pages": [
+        1
       ]
     },
     "vlj:43107": {
@@ -409,9 +426,16 @@
       "pages": [
         1
       ]
+    },
+    "vlj:43195": {
+      "fetched_at": "2026-11-12T11:38:03Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
     }
   },
-  "recent_refreshed_at": "2026-11-12T02:25:03Z",
+  "recent_refreshed_at": "2026-11-12T11:37:24Z",
   "status": "ok",
   "top": {
     "cursor": 0,
