@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 63,
+    "node_index": 78,
     "page": 1,
-    "pages_walked": 195,
+    "pages_walked": 210,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-12T11:38:17Z",
+  "last_attempt_at": "2026-11-12T20:16:17Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-12T11:40:02Z",
-    "new_posts": 99,
-    "new_threads": 57,
+    "at": "2026-11-12T20:18:03Z",
+    "new_posts": 120,
+    "new_threads": 107,
     "requests": 36,
-    "updated_threads": 68
+    "updated_threads": 113
   },
-  "last_success_at": "2026-11-12T11:40:02Z",
+  "last_success_at": "2026-11-12T20:18:03Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -27,14 +27,22 @@
       "pages": 32
     },
     "108": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:30Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Spring Summer 2020"
+      "name": "Past Seasons Collections › Spring Summer 2020",
+      "pages": 1
     },
     "109": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:42Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 9,
-      "name": "Spring Summer 2020 › SS20 - Jackets"
+      "name": "Spring Summer 2020 › SS20 - Jackets",
+      "pages": 1
     },
     "11": {
       "backfill_done": true,
@@ -46,49 +54,85 @@
       "pages": 19
     },
     "110": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:39Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 7,
-      "name": "Spring Summer 2020 › SS20 - Knits & Sweats"
+      "name": "Spring Summer 2020 › SS20 - Knits & Sweats",
+      "pages": 1
     },
     "111": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:36Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 19,
-      "name": "Spring Summer 2020 › SS20 - Shirting"
+      "name": "Spring Summer 2020 › SS20 - Shirting",
+      "pages": 1
     },
     "112": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:33Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 7,
-      "name": "Spring Summer 2020 › SS20 - Bottoms"
+      "name": "Spring Summer 2020 › SS20 - Bottoms",
+      "pages": 1
     },
     "113": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:12Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 3,
-      "name": "Past Seasons Collections › Fall Winter 2020"
+      "name": "Past Seasons Collections › Fall Winter 2020",
+      "pages": 1
     },
     "114": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:15Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 14,
-      "name": "Fall Winter 2020 › FW20 - Bottoms"
+      "name": "Fall Winter 2020 › FW20 - Bottoms",
+      "pages": 1
     },
     "115": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:18Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 17,
-      "name": "Fall Winter 2020 › FW20 - Shirting"
+      "name": "Fall Winter 2020 › FW20 - Shirting",
+      "pages": 1
     },
     "116": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:21Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 3,
-      "name": "Fall Winter 2020 › FW20 - Vests"
+      "name": "Fall Winter 2020 › FW20 - Vests",
+      "pages": 1
     },
     "117": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:24Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 9,
-      "name": "Fall Winter 2020 › FW20 - Jackets"
+      "name": "Fall Winter 2020 › FW20 - Jackets",
+      "pages": 1
     },
     "118": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:27Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Fall Winter 2020 › FW20 - Knits & Sweats"
+      "name": "Fall Winter 2020 › FW20 - Knits & Sweats",
+      "pages": 1
     },
     "12": {
       "backfill_done": true,
@@ -100,9 +144,13 @@
       "pages": 22
     },
     "121": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:09Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 4,
-      "name": "Past Seasons Collections › Spring Summer 2021"
+      "name": "Past Seasons Collections › Spring Summer 2021",
+      "pages": 1
     },
     "123": {
       "backfill_done": true,
@@ -114,14 +162,22 @@
       "pages": 1
     },
     "124": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:06Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 5,
-      "name": "Fall Winter 2021 - Jackets"
+      "name": "Fall Winter 2021 - Jackets",
+      "pages": 1
     },
     "125": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:03Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 3,
-      "name": "Fall Winter 2021 - Vests"
+      "name": "Fall Winter 2021 - Vests",
+      "pages": 1
     },
     "127": {
       "backfill_done": true,
@@ -890,9 +946,13 @@
       "name": "Spring Summer 2019 › Release Schedule"
     },
     "94": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T20:17:45Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Fall Winter 2019"
+      "name": "Past Seasons Collections › Fall Winter 2019",
+      "pages": 1
     },
     "95": {
       "estimate_exact": true,
@@ -996,6 +1056,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:1663": {
+      "fetched_at": "2026-11-12T20:18:00Z",
+      "page_count": 155,
+      "pages": [
+        1
       ]
     },
     "ironheart:17474": {
@@ -1122,10 +1189,11 @@
       ]
     },
     "ironheart:2": {
-      "fetched_at": "2026-11-12T11:39:47Z",
+      "fetched_at": "2026-11-12T20:17:57Z",
       "page_count": 177,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:20391": {
@@ -1147,6 +1215,13 @@
     "ironheart:2057": {
       "fetched_at": "2026-11-11T01:29:37Z",
       "page_count": 72,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:3112": {
+      "fetched_at": "2026-11-12T20:17:54Z",
+      "page_count": 25,
       "pages": [
         1
       ]
@@ -1222,11 +1297,12 @@
       ]
     },
     "ironheart:5329": {
-      "fetched_at": "2026-11-12T02:27:40Z",
+      "fetched_at": "2026-11-12T20:18:03Z",
       "page_count": 274,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:5548": {
@@ -1256,6 +1332,13 @@
       "pages": [
         1,
         2
+      ]
+    },
+    "ironheart:67": {
+      "fetched_at": "2026-11-12T20:17:48Z",
+      "page_count": 290,
+      "pages": [
+        1
       ]
     },
     "ironheart:68": {
@@ -1308,10 +1391,11 @@
       ]
     },
     "ironheart:96": {
-      "fetched_at": "2026-11-12T11:39:50Z",
+      "fetched_at": "2026-11-12T20:17:51Z",
       "page_count": 1406,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:97": {
@@ -1324,9 +1408,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-12T11:38:23Z",
+  "recent_refreshed_at": "2026-11-12T20:16:24Z",
   "status": "ok",
   "top": {
-    "cursor": 322
+    "cursor": 412
   }
 }
