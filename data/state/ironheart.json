@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 34,
+    "node_index": 48,
     "page": 1,
-    "pages_walked": 165,
+    "pages_walked": 180,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-11T19:52:58Z",
+  "last_attempt_at": "2026-11-12T02:25:58Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-11T19:54:43Z",
-    "new_posts": 104,
-    "new_threads": 67,
+    "at": "2026-11-12T02:27:43Z",
+    "new_posts": 120,
+    "new_threads": 48,
     "requests": 36,
-    "updated_threads": 297
+    "updated_threads": 181
   },
-  "last_success_at": "2026-11-11T19:54:43Z",
+  "last_success_at": "2026-11-12T02:27:43Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -235,6 +235,9 @@
       "name": "General Stuff"
     },
     "153": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:26:46Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
       "name": "Iron Heart Information",
@@ -265,6 +268,9 @@
       "pages": 1
     },
     "167": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:01Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 19,
       "name": "Future and Planned Products › Non Seasonal Product Preview",
@@ -276,9 +282,13 @@
       "name": "City Guides › USA"
     },
     "173": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:25Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Past Seasons Collections › Spring/Summer 2024"
+      "name": "Past Seasons Collections › Spring/Summer 2024",
+      "pages": 1
     },
     "174": {
       "estimate_exact": true,
@@ -305,15 +315,22 @@
       "pages": 1
     },
     "198": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:26:43Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 16,
       "name": "Decka",
       "pages": 1
     },
     "199": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:16Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Fall/Winter 2024"
+      "name": "Past Seasons Collections › Fall/Winter 2024",
+      "pages": 1
     },
     "2": {
       "estimate_exact": true,
@@ -326,14 +343,22 @@
       "name": "City Guides › Japan"
     },
     "200": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:19Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Fall/Winter 2024 - Jackets"
+      "name": "Fall/Winter 2024 - Jackets",
+      "pages": 1
     },
     "203": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:22Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Fall/Winter 2024 - Knits & Sweats"
+      "name": "Fall/Winter 2024 - Knits & Sweats",
+      "pages": 1
     },
     "205": {
       "backfill_done": true,
@@ -355,6 +380,9 @@
       "name": "City Guides › South/Central America"
     },
     "220": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:26:49Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 8,
       "name": "What is...?",
@@ -371,9 +399,13 @@
       "name": "Iron Heart Meet Ups & Travel"
     },
     "26": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:04Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 10,
-      "name": "Measuring - The Iron Heart Method"
+      "name": "Measuring - The Iron Heart Method",
+      "pages": 1
     },
     "27": {
       "estimate_exact": true,
@@ -409,9 +441,13 @@
       "pages": 1
     },
     "319": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:13Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "Past Seasons Collections › Spring/Summer 2026"
+      "name": "Past Seasons Collections › Spring/Summer 2026",
+      "pages": 1
     },
     "32": {
       "estimate_exact": true,
@@ -428,6 +464,9 @@
       "pages": 1
     },
     "327": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:26:58Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
       "name": "Future and Planned Products › Fall/Winter 2026 Collection",
@@ -508,6 +547,9 @@
       "pages": 12
     },
     "46": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:26:55Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 38,
       "name": "Future and Planned Products",
@@ -544,9 +586,13 @@
       "name": "Fall Winter 2017 › FW17 - Vests"
     },
     "52": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:10Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 20,
-      "name": "Past Seasons Collections"
+      "name": "Past Seasons Collections",
+      "pages": 1
     },
     "55": {
       "backfill_done": true,
@@ -572,9 +618,13 @@
       "name": "Hobbies and Pastimes"
     },
     "58": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-12T02:27:07Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 9,
-      "name": "Sustainability at Iron Heart"
+      "name": "Sustainability at Iron Heart",
+      "pages": 1
     },
     "61": {
       "estimate_exact": true,
@@ -857,8 +907,16 @@
       ]
     },
     "ironheart:13534": {
-      "fetched_at": "2026-11-11T01:29:40Z",
+      "fetched_at": "2026-11-12T02:27:37Z",
       "page_count": 71,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:14034": {
+      "fetched_at": "2026-11-12T02:27:28Z",
+      "page_count": 7,
       "pages": [
         1
       ]
@@ -1035,6 +1093,13 @@
         2
       ]
     },
+    "ironheart:364": {
+      "fetched_at": "2026-11-12T02:27:31Z",
+      "page_count": 82,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:4074": {
       "fetched_at": "2026-11-09T07:03:18Z",
       "page_count": 13,
@@ -1049,6 +1114,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:4598": {
+      "fetched_at": "2026-11-12T02:27:34Z",
+      "page_count": 25,
+      "pages": [
+        1
       ]
     },
     "ironheart:487": {
@@ -1068,10 +1140,11 @@
       ]
     },
     "ironheart:5329": {
-      "fetched_at": "2026-11-11T19:54:37Z",
+      "fetched_at": "2026-11-12T02:27:40Z",
       "page_count": 274,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:5615": {
@@ -1117,6 +1190,13 @@
         1
       ]
     },
+    "ironheart:7418": {
+      "fetched_at": "2026-11-12T02:27:43Z",
+      "page_count": 31,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:7761": {
       "fetched_at": "2026-11-10T03:46:53Z",
       "page_count": 36,
@@ -1148,9 +1228,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-11T19:53:04Z",
+  "recent_refreshed_at": "2026-11-12T02:26:04Z",
   "status": "ok",
   "top": {
-    "cursor": 238
+    "cursor": 274
   }
 }
