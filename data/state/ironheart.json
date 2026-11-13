@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 107,
-    "page": 1,
-    "pages_walked": 240,
+    "node_index": 109,
+    "page": 6,
+    "pages_walked": 255,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-13T11:22:01Z",
+  "last_attempt_at": "2026-11-13T19:59:52Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-13T11:23:47Z",
-    "new_posts": 120,
-    "new_threads": 95,
+    "at": "2026-11-13T20:01:37Z",
+    "new_posts": 110,
+    "new_threads": 285,
     "requests": 36,
-    "updated_threads": 110
+    "updated_threads": 209
   },
-  "last_success_at": "2026-11-13T11:23:47Z",
+  "last_success_at": "2026-11-13T20:01:37Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -252,9 +252,13 @@
       "pages": 1
     },
     "136": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-13T20:01:04Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 23,
-      "name": "Iron Cast"
+      "name": "Iron Cast",
+      "pages": 2
     },
     "137": {
       "backfill_done": true,
@@ -453,9 +457,13 @@
       "pages": 1
     },
     "2": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-13T20:00:58Z",
+      "backfill_page": 8,
       "estimate_exact": true,
       "estimated_threads": 153,
-      "name": "News"
+      "name": "News",
+      "pages": 8
     },
     "20": {
       "estimate_exact": true,
@@ -539,7 +547,7 @@
     },
     "3": {
       "estimate_exact": true,
-      "estimated_threads": 438,
+      "estimated_threads": 439,
       "name": "General Chat"
     },
     "30": {
@@ -611,9 +619,11 @@
       "pages": 1
     },
     "33": {
+      "backfill_page": 5,
       "estimate_exact": true,
       "estimated_threads": 112,
-      "name": "The Resource Centre"
+      "name": "The Resource Centre",
+      "pages": 6
     },
     "34": {
       "backfill_done": true,
@@ -1142,11 +1152,12 @@
       ]
     },
     "ironheart:12515": {
-      "fetched_at": "2026-11-11T19:54:40Z",
-      "page_count": 201,
+      "fetched_at": "2026-11-13T20:01:31Z",
+      "page_count": 202,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:13453": {
@@ -1189,10 +1200,11 @@
       ]
     },
     "ironheart:1663": {
-      "fetched_at": "2026-11-12T20:18:00Z",
-      "page_count": 155,
+      "fetched_at": "2026-11-13T20:01:34Z",
+      "page_count": 156,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:17474": {
@@ -1351,6 +1363,13 @@
         1
       ]
     },
+    "ironheart:20460": {
+      "fetched_at": "2026-11-13T20:01:22Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:2057": {
       "fetched_at": "2026-11-11T01:29:37Z",
       "page_count": 72,
@@ -1436,6 +1455,13 @@
     "ironheart:4598": {
       "fetched_at": "2026-11-12T02:27:34Z",
       "page_count": 25,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:471": {
+      "fetched_at": "2026-11-13T20:01:25Z",
+      "page_count": 812,
       "pages": [
         1
       ]
@@ -1531,10 +1557,11 @@
       ]
     },
     "ironheart:7761": {
-      "fetched_at": "2026-11-10T03:46:53Z",
+      "fetched_at": "2026-11-13T20:01:37Z",
       "page_count": 36,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:80": {
@@ -1548,6 +1575,13 @@
     "ironheart:864": {
       "fetched_at": "2026-11-13T02:05:44Z",
       "page_count": 34,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:92": {
+      "fetched_at": "2026-11-13T20:01:28Z",
+      "page_count": 959,
       "pages": [
         1
       ]
@@ -1578,9 +1612,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-13T11:22:08Z",
+  "recent_refreshed_at": "2026-11-13T19:59:58Z",
   "status": "ok",
   "top": {
-    "cursor": 586
+    "cursor": 656
   }
 }

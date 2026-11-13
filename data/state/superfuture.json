@@ -1,24 +1,28 @@
 {
   "backfill": {
+    "complete": true,
+    "completed_at": "2026-11-13T19:56:08Z",
     "cycle": 1,
-    "node_index": 0,
-    "page": 193,
-    "pages_walked": 192,
+    "node_index": 1,
+    "page": 1,
+    "pages_walked": 202,
     "started_at": "2026-11-08T17:15:33Z"
   },
-  "last_attempt_at": "2026-11-13T11:18:07Z",
+  "last_attempt_at": "2026-11-13T19:55:32Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-13T11:19:09Z",
+    "at": "2026-11-13T19:56:27Z",
     "new_posts": 180,
-    "new_threads": 348,
-    "requests": 21,
-    "updated_threads": 72
+    "new_threads": 270,
+    "requests": 19,
+    "updated_threads": 83
   },
-  "last_success_at": "2026-11-13T11:19:09Z",
+  "last_success_at": "2026-11-13T19:56:27Z",
   "nodes": {
     "22-superdenim": {
-      "backfill_page": 192,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-13T19:56:08Z",
+      "backfill_page": 202,
       "estimate_exact": false,
       "estimated_threads": 6060,
       "name": "Superdenim",
@@ -36,11 +40,19 @@
       ]
     },
     "superfuture:109614": {
-      "fetched_at": "2026-11-13T11:18:59Z",
-      "page_count": 189,
+      "fetched_at": "2026-11-13T19:56:15Z",
+      "page_count": 190,
       "pages": [
         1,
-        2
+        2,
+        3
+      ]
+    },
+    "superfuture:117942": {
+      "fetched_at": "2026-11-13T19:56:27Z",
+      "page_count": 259,
+      "pages": [
+        1
       ]
     },
     "superfuture:129986": {
@@ -80,11 +92,19 @@
       ]
     },
     "superfuture:157410": {
-      "fetched_at": "2026-11-13T11:18:56Z",
+      "fetched_at": "2026-11-13T19:56:18Z",
       "page_count": 22,
       "pages": [
         1,
-        2
+        2,
+        3
+      ]
+    },
+    "superfuture:158694": {
+      "fetched_at": "2026-11-13T19:56:12Z",
+      "page_count": 210,
+      "pages": [
+        1
       ]
     },
     "superfuture:159169": {
@@ -218,10 +238,11 @@
       ]
     },
     "superfuture:19938": {
-      "fetched_at": "2026-11-13T11:19:09Z",
+      "fetched_at": "2026-11-13T19:56:21Z",
       "page_count": 285,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "superfuture:22338": {
@@ -278,6 +299,13 @@
         3
       ]
     },
+    "superfuture:6917": {
+      "fetched_at": "2026-11-13T19:56:24Z",
+      "page_count": 281,
+      "pages": [
+        1
+      ]
+    },
     "superfuture:76690": {
       "fetched_at": "2026-11-12T11:34:31Z",
       "page_count": 384,
@@ -315,7 +343,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-13T11:18:14Z",
+  "recent_refreshed_at": "2026-11-13T19:55:38Z",
   "status": "ok",
   "top": {
     "cursor": 0,
