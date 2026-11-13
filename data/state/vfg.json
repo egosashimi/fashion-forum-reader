@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 181,
-    "pages_walked": 180,
+    "page": 193,
+    "pages_walked": 192,
     "started_at": "2026-11-08T17:17:06Z"
   },
-  "last_attempt_at": "2026-11-13T02:01:10Z",
+  "last_attempt_at": "2026-11-13T11:19:10Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-13T02:02:25Z",
-    "new_posts": 89,
+    "at": "2026-11-13T11:20:22Z",
+    "new_posts": 100,
     "new_threads": 295,
-    "requests": 26,
+    "requests": 25,
     "updated_threads": 149
   },
-  "last_success_at": "2026-11-13T02:02:25Z",
+  "last_success_at": "2026-11-13T11:20:22Z",
   "nodes": {
     "public-labels-for-the-label-resource-add-here.41": {
       "estimate_exact": false,
@@ -42,7 +42,7 @@
       "pages": 202
     },
     "public-vintage-fashion-ask-questions-get-answers.39": {
-      "backfill_page": 180,
+      "backfill_page": 192,
       "estimate_exact": false,
       "estimated_threads": 16060,
       "name": "Ask Questions Get Answers",
@@ -111,11 +111,12 @@
       ]
     },
     "vfg:46047": {
-      "fetched_at": "2026-11-13T02:02:25Z",
+      "fetched_at": "2026-11-13T11:20:16Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vfg:46451": {
@@ -125,6 +126,20 @@
         1,
         2,
         3
+      ]
+    },
+    "vfg:48565": {
+      "fetched_at": "2026-11-13T11:20:19Z",
+      "page_count": 4,
+      "pages": [
+        1
+      ]
+    },
+    "vfg:53994": {
+      "fetched_at": "2026-11-13T11:20:22Z",
+      "page_count": 4,
+      "pages": [
+        1
       ]
     },
     "vfg:54578": {
@@ -164,11 +179,12 @@
       ]
     },
     "vfg:68529": {
-      "fetched_at": "2026-11-13T02:02:19Z",
+      "fetched_at": "2026-11-13T11:20:10Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vfg:70899": {
@@ -421,15 +437,16 @@
       ]
     },
     "vfg:9855": {
-      "fetched_at": "2026-11-13T02:02:22Z",
+      "fetched_at": "2026-11-13T11:20:13Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-13T02:01:31Z",
+  "recent_refreshed_at": "2026-11-13T11:19:31Z",
   "status": "ok",
   "top": {
     "cursor": 0,
