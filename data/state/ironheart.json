@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 109,
-    "page": 6,
-    "pages_walked": 255,
+    "node_index": 110,
+    "page": 15,
+    "pages_walked": 270,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-13T19:59:52Z",
+  "last_attempt_at": "2026-11-14T01:36:21Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-13T20:01:37Z",
-    "new_posts": 110,
-    "new_threads": 285,
+    "at": "2026-11-14T01:38:07Z",
+    "new_posts": 120,
+    "new_threads": 345,
     "requests": 36,
-    "updated_threads": 209
+    "updated_threads": 200
   },
-  "last_success_at": "2026-11-13T20:01:37Z",
+  "last_success_at": "2026-11-14T01:38:07Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -543,12 +543,15 @@
     "29": {
       "estimate_exact": true,
       "estimated_threads": 167,
-      "name": "Tell us all, What You've Got"
+      "name": "Tell us all, What You've Got",
+      "pages": 9
     },
     "3": {
+      "backfill_page": 14,
       "estimate_exact": true,
       "estimated_threads": 439,
-      "name": "General Chat"
+      "name": "General Chat",
+      "pages": 22
     },
     "30": {
       "backfill_done": true,
@@ -619,7 +622,9 @@
       "pages": 1
     },
     "33": {
-      "backfill_page": 5,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T01:37:07Z",
+      "backfill_page": 6,
       "estimate_exact": true,
       "estimated_threads": 112,
       "name": "The Resource Centre",
@@ -1161,18 +1166,20 @@
       ]
     },
     "ironheart:13453": {
-      "fetched_at": "2026-11-13T11:23:35Z",
+      "fetched_at": "2026-11-14T01:37:52Z",
       "page_count": 14,
-      "pages": [
-        1
-      ]
-    },
-    "ironheart:13534": {
-      "fetched_at": "2026-11-12T02:27:37Z",
-      "page_count": 71,
       "pages": [
         1,
         2
+      ]
+    },
+    "ironheart:13534": {
+      "fetched_at": "2026-11-14T01:37:58Z",
+      "page_count": 71,
+      "pages": [
+        1,
+        2,
+        3
       ]
     },
     "ironheart:14034": {
@@ -1460,8 +1467,16 @@
       ]
     },
     "ironheart:471": {
-      "fetched_at": "2026-11-13T20:01:25Z",
-      "page_count": 812,
+      "fetched_at": "2026-11-14T01:38:01Z",
+      "page_count": 813,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:475": {
+      "fetched_at": "2026-11-14T01:38:07Z",
+      "page_count": 748,
       "pages": [
         1
       ]
@@ -1580,8 +1595,16 @@
       ]
     },
     "ironheart:92": {
-      "fetched_at": "2026-11-13T20:01:28Z",
+      "fetched_at": "2026-11-14T01:37:55Z",
       "page_count": 959,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "ironheart:950": {
+      "fetched_at": "2026-11-14T01:38:04Z",
+      "page_count": 14,
       "pages": [
         1
       ]
@@ -1612,9 +1635,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-13T19:59:58Z",
+  "recent_refreshed_at": "2026-11-14T01:36:28Z",
   "status": "ok",
   "top": {
-    "cursor": 656
+    "cursor": 668
   }
 }
