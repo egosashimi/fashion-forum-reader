@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 111,
-    "page": 8,
-    "pages_walked": 285,
+    "node_index": 117,
+    "page": 3,
+    "pages_walked": 300,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-14T10:47:37Z",
+  "last_attempt_at": "2026-11-14T18:25:38Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-14T10:49:22Z",
+    "at": "2026-11-14T18:27:23Z",
     "new_posts": 120,
-    "new_threads": 311,
+    "new_threads": 121,
     "requests": 36,
-    "updated_threads": 217
+    "updated_threads": 326
   },
-  "last_success_at": "2026-11-14T10:49:22Z",
+  "last_success_at": "2026-11-14T18:27:23Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -360,9 +360,13 @@
       "pages": 1
     },
     "154": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:59Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "Other Brands, Footwear and Accessories"
+      "name": "Other Brands, Footwear and Accessories",
+      "pages": 1
     },
     "16": {
       "estimate_exact": true,
@@ -536,13 +540,18 @@
       "pages": 1
     },
     "27": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:35Z",
+      "backfill_page": 3,
       "estimate_exact": true,
       "estimated_threads": 46,
       "name": "Sport",
       "pages": 3
     },
     "29": {
-      "backfill_page": 7,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:26Z",
+      "backfill_page": 9,
       "estimate_exact": true,
       "estimated_threads": 167,
       "name": "Tell us all, What You've Got",
@@ -649,9 +658,13 @@
       "name": "World Tours"
     },
     "36": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:56Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 29,
-      "name": "Heavy Weight Contests & Competitions"
+      "name": "Heavy Weight Contests & Competitions",
+      "pages": 2
     },
     "38": {
       "backfill_done": true,
@@ -663,9 +676,13 @@
       "pages": 1
     },
     "39": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:50Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 37,
-      "name": "What Are You Wearing Today (WAYWT)"
+      "name": "What Are You Wearing Today (WAYWT)",
+      "pages": 2
     },
     "41": {
       "backfill_done": true,
@@ -722,9 +739,11 @@
       "pages": 1
     },
     "5": {
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 320,
-      "name": "Other Brands and Shops"
+      "name": "Other Brands and Shops",
+      "pages": 16
     },
     "50": {
       "backfill_done": true,
@@ -772,6 +791,9 @@
       "pages": 1
     },
     "57": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-14T18:26:44Z",
+      "backfill_page": 3,
       "estimate_exact": true,
       "estimated_threads": 52,
       "name": "Hobbies and Pastimes",
@@ -1220,6 +1242,13 @@
         2
       ]
     },
+    "ironheart:16708": {
+      "fetched_at": "2026-11-14T18:27:23Z",
+      "page_count": 452,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:17474": {
       "fetched_at": "2026-11-08T17:37:47Z",
       "page_count": 3,
@@ -1405,10 +1434,11 @@
       ]
     },
     "ironheart:22": {
-      "fetched_at": "2026-11-13T11:23:41Z",
-      "page_count": 415,
+      "fetched_at": "2026-11-14T18:27:08Z",
+      "page_count": 416,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:2578": {
@@ -1419,10 +1449,11 @@
       ]
     },
     "ironheart:2846": {
-      "fetched_at": "2026-11-13T11:23:32Z",
+      "fetched_at": "2026-11-14T18:27:20Z",
       "page_count": 4,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:3112": {
@@ -1449,11 +1480,12 @@
       ]
     },
     "ironheart:35": {
-      "fetched_at": "2026-11-11T11:22:24Z",
+      "fetched_at": "2026-11-14T18:27:14Z",
       "page_count": 230,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:364": {
@@ -1496,11 +1528,12 @@
       ]
     },
     "ironheart:475": {
-      "fetched_at": "2026-11-14T10:49:19Z",
+      "fetched_at": "2026-11-14T18:27:17Z",
       "page_count": 748,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:487": {
@@ -1550,11 +1583,12 @@
       ]
     },
     "ironheart:660": {
-      "fetched_at": "2026-11-08T17:37:53Z",
+      "fetched_at": "2026-11-14T18:27:11Z",
       "page_count": 191,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:67": {
@@ -1658,9 +1692,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-14T10:47:43Z",
+  "recent_refreshed_at": "2026-11-14T18:25:44Z",
   "status": "ok",
   "top": {
-    "cursor": 680
+    "cursor": 695
   }
 }
