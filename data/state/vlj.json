@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 1,
-    "page": 54,
-    "pages_walked": 240,
+    "page": 66,
+    "pages_walked": 252,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-14T18:23:22Z",
+  "last_attempt_at": "2026-11-14T22:41:40Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-14T18:25:38Z",
-    "new_posts": 86,
-    "new_threads": 224,
+    "at": "2026-11-14T22:43:55Z",
+    "new_posts": 65,
+    "new_threads": 229,
     "requests": 46,
-    "updated_threads": 577
+    "updated_threads": 578
   },
-  "last_success_at": "2026-11-14T18:25:38Z",
+  "last_success_at": "2026-11-14T22:43:55Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -99,7 +99,7 @@
       "pages": 140
     },
     "vintage.7": {
-      "backfill_page": 53,
+      "backfill_page": 65,
       "estimate_exact": false,
       "estimated_threads": 2240,
       "name": "Vintage",
@@ -364,10 +364,11 @@
       ]
     },
     "vlj:42437": {
-      "fetched_at": "2026-11-14T18:25:29Z",
+      "fetched_at": "2026-11-14T22:43:49Z",
       "page_count": 5,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:42591": {
@@ -583,27 +584,50 @@
         1
       ]
     },
+    "vlj:43210": {
+      "fetched_at": "2026-11-14T22:43:46Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:43211": {
+      "fetched_at": "2026-11-14T22:43:43Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:43212": {
+      "fetched_at": "2026-11-14T22:43:40Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
-      "fetched_at": "2026-11-14T18:25:35Z",
+      "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:83": {
-      "fetched_at": "2026-11-14T18:25:32Z",
+      "fetched_at": "2026-11-14T22:43:52Z",
       "page_count": 26,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-14T18:24:07Z",
+  "recent_refreshed_at": "2026-11-14T22:42:25Z",
   "status": "ok",
   "top": {
-    "cursor": 48,
+    "cursor": 60,
     "refreshed_at": "2026-11-10T15:09:07Z"
   }
 }
