@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 118,
-    "page": 2,
-    "pages_walked": 315,
+    "node_index": 120,
+    "page": 8,
+    "pages_walked": 330,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-14T22:43:56Z",
+  "last_attempt_at": "2026-11-15T06:56:26Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-14T22:45:41Z",
-    "new_posts": 114,
-    "new_threads": 343,
+    "at": "2026-11-15T06:58:11Z",
+    "new_posts": 116,
+    "new_threads": 276,
     "requests": 36,
-    "updated_threads": 217
+    "updated_threads": 260
   },
-  "last_success_at": "2026-11-14T22:45:41Z",
+  "last_success_at": "2026-11-15T06:58:11Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -526,9 +526,11 @@
       "name": "City Guides › Rest of Asia"
     },
     "24": {
+      "backfill_page": 7,
       "estimate_exact": true,
       "estimated_threads": 197,
-      "name": "Iron Heart Meet Ups & Travel"
+      "name": "Iron Heart Meet Ups & Travel",
+      "pages": 10
     },
     "26": {
       "backfill_done": true,
@@ -594,7 +596,9 @@
       "pages": 1
     },
     "32": {
-      "backfill_page": 1,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T06:57:11Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 40,
       "name": "Accessories",
@@ -657,7 +661,8 @@
     "35": {
       "estimate_exact": true,
       "estimated_threads": 22,
-      "name": "World Tours"
+      "name": "World Tours",
+      "pages": 2
     },
     "36": {
       "backfill_done": true,
@@ -975,6 +980,9 @@
       "pages": 2
     },
     "8": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T06:57:32Z",
+      "backfill_page": 7,
       "estimate_exact": true,
       "estimated_threads": 134,
       "name": "Footwear",
@@ -1216,11 +1224,19 @@
       ]
     },
     "ironheart:14034": {
-      "fetched_at": "2026-11-12T11:39:56Z",
+      "fetched_at": "2026-11-15T06:58:02Z",
       "page_count": 7,
       "pages": [
         1,
-        2
+        2,
+        3
+      ]
+    },
+    "ironheart:14862": {
+      "fetched_at": "2026-11-15T06:58:11Z",
+      "page_count": 448,
+      "pages": [
+        1
       ]
     },
     "ironheart:15734": {
@@ -1249,11 +1265,12 @@
       ]
     },
     "ironheart:16708": {
-      "fetched_at": "2026-11-14T22:45:41Z",
+      "fetched_at": "2026-11-15T06:58:08Z",
       "page_count": 452,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:17474": {
@@ -1387,11 +1404,19 @@
         1
       ]
     },
-    "ironheart:19725": {
-      "fetched_at": "2026-11-10T15:11:47Z",
-      "page_count": 4,
+    "ironheart:19652": {
+      "fetched_at": "2026-11-15T06:57:56Z",
+      "page_count": 1,
       "pages": [
         1
+      ]
+    },
+    "ironheart:19725": {
+      "fetched_at": "2026-11-15T06:58:05Z",
+      "page_count": 4,
+      "pages": [
+        1,
+        2
       ]
     },
     "ironheart:19814": {
@@ -1529,6 +1554,13 @@
     "ironheart:4598": {
       "fetched_at": "2026-11-12T02:27:34Z",
       "page_count": 25,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:470": {
+      "fetched_at": "2026-11-15T06:57:59Z",
+      "page_count": 3,
       "pages": [
         1
       ]
@@ -1721,9 +1753,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-14T22:44:02Z",
+  "recent_refreshed_at": "2026-11-15T06:56:32Z",
   "status": "ok",
   "top": {
-    "cursor": 716
+    "cursor": 728
   }
 }
