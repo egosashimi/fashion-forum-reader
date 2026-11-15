@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 1,
-    "page": 78,
-    "pages_walked": 264,
+    "page": 90,
+    "pages_walked": 276,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-15T06:54:22Z",
+  "last_attempt_at": "2026-11-15T16:30:47Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-15T06:56:26Z",
-    "new_posts": 40,
-    "new_threads": 225,
+    "at": "2026-11-15T16:32:50Z",
+    "new_posts": 23,
+    "new_threads": 233,
     "requests": 42,
-    "updated_threads": 576
+    "updated_threads": 566
   },
-  "last_success_at": "2026-11-15T06:56:26Z",
+  "last_success_at": "2026-11-15T16:32:50Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -99,7 +99,7 @@
       "pages": 140
     },
     "vintage.7": {
-      "backfill_page": 77,
+      "backfill_page": 89,
       "estimate_exact": false,
       "estimated_threads": 2240,
       "name": "Vintage",
@@ -364,6 +364,13 @@
         3
       ]
     },
+    "vlj:41455": {
+      "fetched_at": "2026-11-15T16:32:50Z",
+      "page_count": 15,
+      "pages": [
+        1
+      ]
+    },
     "vlj:42437": {
       "fetched_at": "2026-11-15T06:56:23Z",
       "page_count": 5,
@@ -607,6 +614,13 @@
         1
       ]
     },
+    "vlj:43213": {
+      "fetched_at": "2026-11-15T16:32:47Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -626,10 +640,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-15T06:55:08Z",
+  "recent_refreshed_at": "2026-11-15T16:31:32Z",
   "status": "ok",
   "top": {
-    "cursor": 72,
-    "refreshed_at": "2026-11-10T15:09:07Z"
+    "cursor": 0,
+    "refreshed_at": "2026-11-15T16:32:08Z"
   }
 }

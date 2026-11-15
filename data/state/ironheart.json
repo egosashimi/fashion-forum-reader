@@ -1,21 +1,23 @@
 {
   "backfill": {
+    "complete": true,
+    "completed_at": "2026-11-15T16:34:17Z",
     "cycle": 1,
-    "node_index": 120,
-    "page": 8,
-    "pages_walked": 330,
+    "node_index": 130,
+    "page": 1,
+    "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-15T06:56:26Z",
+  "last_attempt_at": "2026-11-15T16:32:50Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-15T06:58:11Z",
-    "new_posts": 116,
-    "new_threads": 276,
+    "at": "2026-11-15T16:34:35Z",
+    "new_posts": 120,
+    "new_threads": 130,
     "requests": 36,
-    "updated_threads": 260
+    "updated_threads": 206
   },
-  "last_success_at": "2026-11-15T06:58:11Z",
+  "last_success_at": "2026-11-15T16:34:35Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -369,9 +371,13 @@
       "pages": 1
     },
     "16": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:33:50Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 2,
-      "name": "City Guides"
+      "name": "City Guides",
+      "pages": 1
     },
     "161": {
       "backfill_done": true,
@@ -401,9 +407,13 @@
       "pages": 1
     },
     "17": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:33:56Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 31,
-      "name": "City Guides › USA"
+      "name": "City Guides › USA",
+      "pages": 2
     },
     "173": {
       "backfill_done": true,
@@ -424,14 +434,22 @@
       "pages": 1
     },
     "18": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:34:08Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 5,
-      "name": "City Guides › Canada"
+      "name": "City Guides › Canada",
+      "pages": 1
     },
     "19": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:34:05Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 37,
-      "name": "City Guides › Europe"
+      "name": "City Guides › Europe",
+      "pages": 2
     },
     "197": {
       "backfill_done": true,
@@ -470,9 +488,13 @@
       "pages": 8
     },
     "20": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:33:59Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 8,
-      "name": "City Guides › Japan"
+      "name": "City Guides › Japan",
+      "pages": 1
     },
     "200": {
       "backfill_done": true,
@@ -502,14 +524,22 @@
       "pages": 1
     },
     "21": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:34:17Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 5,
-      "name": "City Guides › Australia and New Zealand"
+      "name": "City Guides › Australia and New Zealand",
+      "pages": 1
     },
     "22": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:34:14Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 1,
-      "name": "City Guides › South/Central America"
+      "name": "City Guides › South/Central America",
+      "pages": 1
     },
     "220": {
       "backfill_done": true,
@@ -521,12 +551,18 @@
       "pages": 1
     },
     "23": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:34:11Z",
+      "backfill_page": 1,
       "estimate_exact": true,
       "estimated_threads": 12,
-      "name": "City Guides › Rest of Asia"
+      "name": "City Guides › Rest of Asia",
+      "pages": 1
     },
     "24": {
-      "backfill_page": 7,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:33:41Z",
+      "backfill_page": 10,
       "estimate_exact": true,
       "estimated_threads": 197,
       "name": "Iron Heart Meet Ups & Travel",
@@ -659,6 +695,9 @@
       "pages": 1
     },
     "35": {
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-15T16:33:47Z",
+      "backfill_page": 2,
       "estimate_exact": true,
       "estimated_threads": 22,
       "name": "World Tours",
@@ -1065,7 +1104,7 @@
       "backfill_done_at": "2026-11-08T22:25:11Z",
       "backfill_page": 23,
       "estimate_exact": true,
-      "estimated_threads": 448,
+      "estimated_threads": 449,
       "name": "Bottoms",
       "pages": 23
     },
@@ -1168,6 +1207,13 @@
         1
       ]
     },
+    "ironheart:11192": {
+      "fetched_at": "2026-11-15T16:34:26Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:11447": {
       "fetched_at": "2026-11-11T11:22:15Z",
       "page_count": 96,
@@ -1203,6 +1249,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:13288": {
+      "fetched_at": "2026-11-15T16:34:32Z",
+      "page_count": 25,
+      "pages": [
+        1
       ]
     },
     "ironheart:13453": {
@@ -1253,6 +1306,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:16008": {
+      "fetched_at": "2026-11-15T16:34:29Z",
+      "page_count": 14,
+      "pages": [
+        1
       ]
     },
     "ironheart:1663": {
@@ -1361,10 +1421,11 @@
       ]
     },
     "ironheart:19597": {
-      "fetched_at": "2026-11-11T11:22:18Z",
+      "fetched_at": "2026-11-15T16:34:20Z",
       "page_count": 5,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:19599": {
@@ -1681,6 +1742,13 @@
         1
       ]
     },
+    "ironheart:7760": {
+      "fetched_at": "2026-11-15T16:34:23Z",
+      "page_count": 24,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:7761": {
       "fetched_at": "2026-11-13T20:01:37Z",
       "page_count": 36,
@@ -1728,10 +1796,11 @@
       ]
     },
     "ironheart:952": {
-      "fetched_at": "2026-11-14T22:45:35Z",
+      "fetched_at": "2026-11-15T16:34:35Z",
       "page_count": 204,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:96": {
@@ -1753,9 +1822,9 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-15T06:56:32Z",
+  "recent_refreshed_at": "2026-11-15T16:32:56Z",
   "status": "ok",
   "top": {
-    "cursor": 728
+    "cursor": 752
   }
 }
