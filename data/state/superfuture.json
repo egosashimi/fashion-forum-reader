@@ -8,16 +8,16 @@
     "pages_walked": 202,
     "started_at": "2026-11-08T17:15:33Z"
   },
-  "last_attempt_at": "2026-11-16T06:54:04Z",
+  "last_attempt_at": "2026-11-16T19:44:45Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-16T06:54:17Z",
+    "at": "2026-11-16T19:45:06Z",
     "new_posts": 60,
     "new_threads": 0,
-    "requests": 5,
+    "requests": 6,
     "updated_threads": 60
   },
-  "last_success_at": "2026-11-16T06:54:17Z",
+  "last_success_at": "2026-11-16T19:45:06Z",
   "nodes": {
     "22-superdenim": {
       "backfill_done": true,
@@ -184,11 +184,12 @@
       ]
     },
     "superfuture:161566": {
-      "fetched_at": "2026-11-16T06:54:17Z",
+      "fetched_at": "2026-11-16T19:45:06Z",
       "page_count": 6,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "superfuture:162590": {
@@ -367,10 +368,11 @@
       ]
     },
     "superfuture:6923": {
-      "fetched_at": "2026-11-16T06:54:14Z",
+      "fetched_at": "2026-11-16T19:45:03Z",
       "page_count": 67,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "superfuture:76690": {
@@ -419,7 +421,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-16T06:54:11Z",
+  "recent_refreshed_at": "2026-11-16T19:44:58Z",
   "status": "ok",
   "top": {
     "cursor": 0,
