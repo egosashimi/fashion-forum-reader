@@ -8,16 +8,16 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-16T19:47:49Z",
+  "last_attempt_at": "2026-11-17T04:05:27Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-16T19:48:13Z",
-    "new_posts": 104,
-    "new_threads": 4,
+    "at": "2026-11-17T04:05:51Z",
+    "new_posts": 120,
+    "new_threads": 0,
     "requests": 9,
-    "updated_threads": 17
+    "updated_threads": 23
   },
-  "last_success_at": "2026-11-16T19:48:13Z",
+  "last_success_at": "2026-11-17T04:05:51Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -1222,11 +1222,12 @@
       ]
     },
     "ironheart:11447": {
-      "fetched_at": "2026-11-16T19:48:07Z",
+      "fetched_at": "2026-11-17T04:05:45Z",
       "page_count": 96,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:11683": {
@@ -1259,11 +1260,19 @@
         3
       ]
     },
-    "ironheart:13288": {
-      "fetched_at": "2026-11-15T16:34:32Z",
-      "page_count": 25,
+    "ironheart:12825": {
+      "fetched_at": "2026-11-17T04:05:42Z",
+      "page_count": 2,
       "pages": [
         1
+      ]
+    },
+    "ironheart:13288": {
+      "fetched_at": "2026-11-17T04:05:51Z",
+      "page_count": 25,
+      "pages": [
+        1,
+        2
       ]
     },
     "ironheart:13453": {
@@ -1355,9 +1364,23 @@
         1
       ]
     },
+    "ironheart:17486": {
+      "fetched_at": "2026-11-17T04:05:36Z",
+      "page_count": 7,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:17505": {
       "fetched_at": "2026-11-08T22:26:05Z",
       "page_count": 19,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:178": {
+      "fetched_at": "2026-11-17T04:05:48Z",
+      "page_count": 207,
       "pages": [
         1
       ]
@@ -1809,10 +1832,11 @@
       ]
     },
     "ironheart:7378": {
-      "fetched_at": "2026-11-10T03:46:41Z",
+      "fetched_at": "2026-11-17T04:05:39Z",
       "page_count": 196,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:7418": {
@@ -1918,7 +1942,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-16T19:47:55Z",
+  "recent_refreshed_at": "2026-11-17T04:05:33Z",
   "status": "ok",
   "top": {
     "cursor": 0,

@@ -2,23 +2,23 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 313,
-    "pages_walked": 312,
+    "page": 325,
+    "pages_walked": 324,
     "started_at": "2026-11-08T17:14:01Z"
   },
-  "last_attempt_at": "2026-11-16T19:43:50Z",
+  "last_attempt_at": "2026-11-17T04:02:03Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-16T19:44:45Z",
-    "new_posts": 57,
-    "new_threads": 241,
-    "requests": 19,
-    "updated_threads": 41
+    "at": "2026-11-17T04:02:51Z",
+    "new_posts": 40,
+    "new_threads": 239,
+    "requests": 17,
+    "updated_threads": 43
   },
-  "last_success_at": "2026-11-16T19:44:45Z",
+  "last_success_at": "2026-11-17T04:02:51Z",
   "nodes": {
     "outerwear-and-workwear.4": {
-      "backfill_page": 312,
+      "backfill_page": 324,
       "estimate_exact": false,
       "estimated_threads": 17020,
       "name": "Outerwear and Workwear",
@@ -106,6 +106,13 @@
     "fedoralounge:114302": {
       "fetched_at": "2026-11-13T11:17:55Z",
       "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "fedoralounge:114606": {
+      "fetched_at": "2026-11-17T04:02:48Z",
+      "page_count": 3,
       "pages": [
         1
       ]
@@ -525,6 +532,13 @@
         3
       ]
     },
+    "fedoralounge:59098": {
+      "fetched_at": "2026-11-17T04:02:51Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "fedoralounge:67540": {
       "fetched_at": "2026-11-15T06:52:50Z",
       "page_count": 86,
@@ -678,7 +692,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-16T19:43:57Z",
+  "recent_refreshed_at": "2026-11-17T04:02:09Z",
   "status": "ok",
   "top": {
     "cursor": 0,
