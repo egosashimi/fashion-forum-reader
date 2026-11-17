@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 2,
-    "page": 26,
-    "pages_walked": 324,
+    "page": 38,
+    "pages_walked": 336,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-17T04:04:02Z",
+  "last_attempt_at": "2026-11-17T16:19:47Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-17T04:05:27Z",
-    "new_posts": 20,
-    "new_threads": 240,
-    "requests": 29,
-    "updated_threads": 319
+    "at": "2026-11-17T16:21:25Z",
+    "new_posts": 66,
+    "new_threads": 239,
+    "requests": 33,
+    "updated_threads": 320
   },
-  "last_success_at": "2026-11-17T04:05:27Z",
+  "last_success_at": "2026-11-17T16:21:25Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -93,7 +93,7 @@
       "pages": 32
     },
     "repros.8": {
-      "backfill_page": 25,
+      "backfill_page": 37,
       "estimate_exact": false,
       "estimated_threads": 2800,
       "name": "Repros",
@@ -209,6 +209,13 @@
         3
       ]
     },
+    "vlj:22556": {
+      "fetched_at": "2026-11-17T16:21:13Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
     "vlj:22890": {
       "fetched_at": "2026-11-13T02:04:01Z",
       "page_count": 38,
@@ -220,6 +227,13 @@
     },
     "vlj:23178": {
       "fetched_at": "2026-11-09T20:02:30Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:2324": {
+      "fetched_at": "2026-11-17T16:21:22Z",
       "page_count": 1,
       "pages": [
         1
@@ -306,6 +320,13 @@
         3
       ]
     },
+    "vlj:28693": {
+      "fetched_at": "2026-11-17T16:21:19Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:31005": {
       "fetched_at": "2026-11-12T02:25:45Z",
       "page_count": 27,
@@ -343,11 +364,12 @@
       ]
     },
     "vlj:35955": {
-      "fetched_at": "2026-11-17T04:05:27Z",
+      "fetched_at": "2026-11-17T16:21:25Z",
       "page_count": 5,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:40697": {
@@ -648,6 +670,13 @@
         1
       ]
     },
+    "vlj:43218": {
+      "fetched_at": "2026-11-17T16:21:16Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -667,7 +696,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-17T04:04:48Z",
+  "recent_refreshed_at": "2026-11-17T16:20:34Z",
   "status": "ok",
   "top": {
     "cursor": 0,

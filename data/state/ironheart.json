@@ -8,23 +8,23 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-17T04:05:27Z",
+  "last_attempt_at": "2026-11-17T16:21:26Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-17T04:05:51Z",
-    "new_posts": 120,
-    "new_threads": 0,
+    "at": "2026-11-17T16:21:50Z",
+    "new_posts": 118,
+    "new_threads": 5,
     "requests": 9,
-    "updated_threads": 23
+    "updated_threads": 18
   },
-  "last_success_at": "2026-11-17T04:05:51Z",
+  "last_success_at": "2026-11-17T16:21:50Z",
   "nodes": {
     "10": {
       "backfill_done": true,
       "backfill_done_at": "2026-11-09T20:03:39Z",
       "backfill_page": 32,
       "estimate_exact": true,
-      "estimated_threads": 633,
+      "estimated_threads": 636,
       "name": "Shirting",
       "pages": 32
     },
@@ -51,7 +51,7 @@
       "backfill_done_at": "2026-11-10T03:46:14Z",
       "backfill_page": 19,
       "estimate_exact": true,
-      "estimated_threads": 381,
+      "estimated_threads": 383,
       "name": "Jackets",
       "pages": 19
     },
@@ -1104,7 +1104,7 @@
       "backfill_done_at": "2026-11-08T22:25:11Z",
       "backfill_page": 23,
       "estimate_exact": true,
-      "estimated_threads": 449,
+      "estimated_threads": 450,
       "name": "Bottoms",
       "pages": 23
     },
@@ -1237,6 +1237,13 @@
         1
       ]
     },
+    "ironheart:12010": {
+      "fetched_at": "2026-11-17T16:21:41Z",
+      "page_count": 4,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:124": {
       "fetched_at": "2026-11-11T19:54:43Z",
       "page_count": 164,
@@ -1302,11 +1309,19 @@
         3
       ]
     },
-    "ironheart:14862": {
-      "fetched_at": "2026-11-15T06:58:11Z",
-      "page_count": 448,
+    "ironheart:14492": {
+      "fetched_at": "2026-11-17T16:21:38Z",
+      "page_count": 65,
       "pages": [
         1
+      ]
+    },
+    "ironheart:14862": {
+      "fetched_at": "2026-11-17T16:21:50Z",
+      "page_count": 448,
+      "pages": [
+        1,
+        2
       ]
     },
     "ironheart:15734": {
@@ -1353,6 +1368,13 @@
     "ironheart:17474": {
       "fetched_at": "2026-11-08T17:37:47Z",
       "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:17477": {
+      "fetched_at": "2026-11-17T16:21:44Z",
+      "page_count": 5,
       "pages": [
         1
       ]
@@ -1511,10 +1533,11 @@
       ]
     },
     "ironheart:19646": {
-      "fetched_at": "2026-11-16T19:48:10Z",
+      "fetched_at": "2026-11-17T16:21:35Z",
       "page_count": 2,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:19651": {
@@ -1699,10 +1722,11 @@
       ]
     },
     "ironheart:4313": {
-      "fetched_at": "2026-11-16T19:48:13Z",
+      "fetched_at": "2026-11-17T16:21:47Z",
       "page_count": 23,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:44": {
@@ -1942,7 +1966,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-17T04:05:33Z",
+  "recent_refreshed_at": "2026-11-17T16:21:32Z",
   "status": "ok",
   "top": {
     "cursor": 0,
