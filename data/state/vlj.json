@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 2,
-    "page": 50,
-    "pages_walked": 348,
+    "page": 62,
+    "pages_walked": 360,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-18T01:06:43Z",
+  "last_attempt_at": "2026-11-18T12:00:32Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-18T01:08:09Z",
-    "new_posts": 20,
+    "at": "2026-11-18T12:02:09Z",
+    "new_posts": 43,
     "new_threads": 237,
-    "requests": 29,
+    "requests": 32,
     "updated_threads": 322
   },
-  "last_success_at": "2026-11-18T01:08:09Z",
+  "last_success_at": "2026-11-18T12:02:09Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -93,7 +93,7 @@
       "pages": 32
     },
     "repros.8": {
-      "backfill_page": 49,
+      "backfill_page": 61,
       "estimate_exact": false,
       "estimated_threads": 2800,
       "name": "Repros",
@@ -110,6 +110,13 @@
     }
   },
   "posts": {
+    "vlj:17638": {
+      "fetched_at": "2026-11-18T12:02:03Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:20145": {
       "fetched_at": "2026-11-14T01:36:15Z",
       "page_count": 27,
@@ -210,11 +217,12 @@
       ]
     },
     "vlj:22556": {
-      "fetched_at": "2026-11-18T01:08:09Z",
+      "fetched_at": "2026-11-18T12:02:09Z",
       "page_count": 5,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:22890": {
@@ -371,6 +379,13 @@
         1,
         2,
         3
+      ]
+    },
+    "vlj:40187": {
+      "fetched_at": "2026-11-18T12:02:06Z",
+      "page_count": 6,
+      "pages": [
+        1
       ]
     },
     "vlj:40697": {
@@ -697,7 +712,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-18T01:07:30Z",
+  "recent_refreshed_at": "2026-11-18T12:01:24Z",
   "status": "ok",
   "top": {
     "cursor": 0,
