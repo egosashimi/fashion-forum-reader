@@ -8,16 +8,16 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-19T02:45:14Z",
+  "last_attempt_at": "2026-11-19T11:59:53Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-19T02:46:14Z",
-    "new_posts": 100,
-    "new_threads": 1,
+    "at": "2026-11-19T12:00:53Z",
+    "new_posts": 75,
+    "new_threads": 0,
     "requests": 21,
-    "updated_threads": 155
+    "updated_threads": 209
   },
-  "last_success_at": "2026-11-19T02:46:14Z",
+  "last_success_at": "2026-11-19T12:00:53Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -1290,6 +1290,20 @@
         2
       ]
     },
+    "ironheart:12980": {
+      "fetched_at": "2026-11-19T12:00:50Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:13174": {
+      "fetched_at": "2026-11-19T12:00:41Z",
+      "page_count": 21,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:13288": {
       "fetched_at": "2026-11-18T01:08:18Z",
       "page_count": 25,
@@ -1315,6 +1329,20 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:13769": {
+      "fetched_at": "2026-11-19T12:00:53Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:13770": {
+      "fetched_at": "2026-11-19T12:00:44Z",
+      "page_count": 1,
+      "pages": [
+        1
       ]
     },
     "ironheart:14034": {
@@ -1940,6 +1968,13 @@
         1
       ]
     },
+    "ironheart:702": {
+      "fetched_at": "2026-11-19T12:00:47Z",
+      "page_count": 5,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:7124": {
       "fetched_at": "2026-11-14T22:45:29Z",
       "page_count": 40,
@@ -1993,6 +2028,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:8457": {
+      "fetched_at": "2026-11-19T12:00:38Z",
+      "page_count": 8,
+      "pages": [
+        1
       ]
     },
     "ironheart:864": {
@@ -2068,10 +2110,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-19T02:45:20Z",
+  "recent_refreshed_at": "2026-11-19T11:59:59Z",
   "status": "ok",
   "top": {
-    "cursor": 26,
+    "cursor": 42,
     "refreshed_at": "2026-11-15T23:04:46Z"
   }
 }
