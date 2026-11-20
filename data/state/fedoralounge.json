@@ -2,23 +2,23 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 433,
-    "pages_walked": 432,
+    "page": 445,
+    "pages_walked": 444,
     "started_at": "2026-11-08T17:14:01Z"
   },
-  "last_attempt_at": "2026-11-20T11:56:53Z",
+  "last_attempt_at": "2026-11-20T20:35:40Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-20T11:57:42Z",
-    "new_posts": 36,
+    "at": "2026-11-20T20:36:34Z",
+    "new_posts": 39,
     "new_threads": 241,
-    "requests": 17,
+    "requests": 19,
     "updated_threads": 41
   },
-  "last_success_at": "2026-11-20T11:57:42Z",
+  "last_success_at": "2026-11-20T20:36:34Z",
   "nodes": {
     "outerwear-and-workwear.4": {
-      "backfill_page": 432,
+      "backfill_page": 444,
       "estimate_exact": false,
       "estimated_threads": 17020,
       "name": "Outerwear and Workwear",
@@ -201,8 +201,22 @@
         1
       ]
     },
+    "fedoralounge:121554": {
+      "fetched_at": "2026-11-20T20:36:25Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "fedoralounge:121957": {
       "fetched_at": "2026-11-14T18:21:44Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "fedoralounge:122183": {
+      "fetched_at": "2026-11-20T20:36:34Z",
       "page_count": 1,
       "pages": [
         1
@@ -621,6 +635,13 @@
         1
       ]
     },
+    "fedoralounge:124465": {
+      "fetched_at": "2026-11-20T20:36:28Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "fedoralounge:14096": {
       "fetched_at": "2026-11-13T19:55:29Z",
       "page_count": 86,
@@ -746,10 +767,11 @@
       ]
     },
     "fedoralounge:86432": {
-      "fetched_at": "2026-11-20T11:57:39Z",
+      "fetched_at": "2026-11-20T20:36:31Z",
       "page_count": 4,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "fedoralounge:89562": {
@@ -842,7 +864,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-20T11:57:00Z",
+  "recent_refreshed_at": "2026-11-20T20:35:46Z",
   "status": "ok",
   "top": {
     "cursor": 0,
