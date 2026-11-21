@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 4,
-    "page": 11,
-    "pages_walked": 456,
+    "node_index": 5,
+    "page": 2,
+    "pages_walked": 468,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-21T02:38:29Z",
+  "last_attempt_at": "2026-11-21T11:31:11Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-21T02:39:57Z",
-    "new_posts": 32,
-    "new_threads": 162,
+    "at": "2026-11-21T11:32:38Z",
+    "new_posts": 22,
+    "new_threads": 170,
     "requests": 30,
-    "updated_threads": 382
+    "updated_threads": 386
   },
-  "last_success_at": "2026-11-21T02:39:57Z",
+  "last_success_at": "2026-11-21T11:32:38Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -24,6 +24,7 @@
       "pages": 18
     },
     "cloth.10": {
+      "backfill_page": 1,
       "estimate_exact": false,
       "estimated_threads": 620,
       "name": "Cloth",
@@ -66,7 +67,9 @@
       "pages": 92
     },
     "moto-utility-jackets.11": {
-      "backfill_page": 10,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-21T11:32:29Z",
+      "backfill_page": 21,
       "estimate_exact": false,
       "estimated_threads": 420,
       "name": "Moto / Utility Jackets",
@@ -159,11 +162,12 @@
       ]
     },
     "vlj:20958": {
-      "fetched_at": "2026-11-21T02:39:54Z",
+      "fetched_at": "2026-11-21T11:32:38Z",
       "page_count": 10,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:20971": {
@@ -787,6 +791,13 @@
         1
       ]
     },
+    "vlj:43230": {
+      "fetched_at": "2026-11-21T11:32:35Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -806,7 +817,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-21T02:39:15Z",
+  "recent_refreshed_at": "2026-11-21T11:31:56Z",
   "status": "ok",
   "top": {
     "cursor": 0,
