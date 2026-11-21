@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 3,
-    "page": 5,
-    "pages_walked": 444,
+    "node_index": 4,
+    "page": 11,
+    "pages_walked": 456,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-20T20:37:45Z",
+  "last_attempt_at": "2026-11-21T02:38:29Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-20T20:39:48Z",
-    "new_posts": 40,
-    "new_threads": 144,
-    "requests": 42,
-    "updated_threads": 638
+    "at": "2026-11-21T02:39:57Z",
+    "new_posts": 32,
+    "new_threads": 162,
+    "requests": 30,
+    "updated_threads": 382
   },
-  "last_success_at": "2026-11-20T20:39:48Z",
+  "last_success_at": "2026-11-21T02:39:57Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -36,7 +36,9 @@
       "pages": 269
     },
     "foreign-flight-jackets.12": {
-      "backfill_page": 4,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-21T02:39:21Z",
+      "backfill_page": 6,
       "estimate_exact": false,
       "estimated_threads": 120,
       "name": "Foreign Flight Jackets",
@@ -64,6 +66,7 @@
       "pages": 92
     },
     "moto-utility-jackets.11": {
+      "backfill_page": 10,
       "estimate_exact": false,
       "estimated_threads": 420,
       "name": "Moto / Utility Jackets",
@@ -114,10 +117,11 @@
   },
   "posts": {
     "vlj:13528": {
-      "fetched_at": "2026-11-20T20:39:48Z",
+      "fetched_at": "2026-11-21T02:39:57Z",
       "page_count": 2,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:17638": {
@@ -155,10 +159,11 @@
       ]
     },
     "vlj:20958": {
-      "fetched_at": "2026-11-20T20:39:45Z",
+      "fetched_at": "2026-11-21T02:39:54Z",
       "page_count": 10,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:20971": {
@@ -801,7 +806,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-20T20:38:30Z",
+  "recent_refreshed_at": "2026-11-21T02:39:15Z",
   "status": "ok",
   "top": {
     "cursor": 0,
