@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 6,
-    "page": 7,
-    "pages_walked": 504,
+    "page": 19,
+    "pages_walked": 516,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-22T11:45:58Z",
+  "last_attempt_at": "2026-11-22T19:55:07Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-22T11:47:25Z",
-    "new_posts": 3,
-    "new_threads": 192,
-    "requests": 30,
-    "updated_threads": 358
+    "at": "2026-11-22T19:56:31Z",
+    "new_posts": 5,
+    "new_threads": 219,
+    "requests": 29,
+    "updated_threads": 340
   },
-  "last_success_at": "2026-11-22T11:47:25Z",
+  "last_success_at": "2026-11-22T19:56:31Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -78,7 +78,7 @@
       "pages": 21
     },
     "nylon.9": {
-      "backfill_page": 6,
+      "backfill_page": 18,
       "estimate_exact": false,
       "estimated_threads": 660,
       "name": "Nylon",
@@ -836,6 +836,13 @@
         1
       ]
     },
+    "vlj:43238": {
+      "fetched_at": "2026-11-22T19:56:31Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -855,7 +862,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-22T11:46:43Z",
+  "recent_refreshed_at": "2026-11-22T19:55:52Z",
   "status": "ok",
   "top": {
     "cursor": 0,
