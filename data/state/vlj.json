@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 5,
-    "page": 14,
-    "pages_walked": 480,
+    "page": 26,
+    "pages_walked": 492,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-21T19:35:51Z",
+  "last_attempt_at": "2026-11-22T01:29:30Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-21T19:37:18Z",
-    "new_posts": 2,
-    "new_threads": 227,
-    "requests": 30,
-    "updated_threads": 332
+    "at": "2026-11-22T01:30:54Z",
+    "new_posts": 1,
+    "new_threads": 193,
+    "requests": 29,
+    "updated_threads": 366
   },
-  "last_success_at": "2026-11-21T19:37:18Z",
+  "last_success_at": "2026-11-22T01:30:54Z",
   "nodes": {
     "care-preservation.14": {
       "estimate_exact": false,
@@ -24,7 +24,7 @@
       "pages": 18
     },
     "cloth.10": {
-      "backfill_page": 13,
+      "backfill_page": 25,
       "estimate_exact": false,
       "estimated_threads": 620,
       "name": "Cloth",
@@ -812,6 +812,13 @@
         1
       ]
     },
+    "vlj:43234": {
+      "fetched_at": "2026-11-22T01:30:54Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -831,7 +838,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-21T19:36:36Z",
+  "recent_refreshed_at": "2026-11-22T01:30:15Z",
   "status": "ok",
   "top": {
     "cursor": 0,
