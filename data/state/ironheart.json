@@ -8,16 +8,16 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-23T01:54:41Z",
+  "last_attempt_at": "2026-11-23T13:23:44Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-23T01:55:42Z",
-    "new_posts": 110,
+    "at": "2026-11-23T13:24:45Z",
+    "new_posts": 118,
     "new_threads": 0,
     "requests": 21,
-    "updated_threads": 38
+    "updated_threads": 86
   },
-  "last_success_at": "2026-11-23T01:55:42Z",
+  "last_success_at": "2026-11-23T13:24:45Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -672,7 +672,7 @@
       "backfill_done_at": "2026-11-11T01:28:49Z",
       "backfill_page": 1,
       "estimate_exact": true,
-      "estimated_threads": 7,
+      "estimated_threads": 6,
       "name": "Andersen-Andersen Knitwear",
       "pages": 1
     },
@@ -1104,7 +1104,7 @@
       "backfill_done_at": "2026-11-08T22:25:11Z",
       "backfill_page": 23,
       "estimate_exact": true,
-      "estimated_threads": 450,
+      "estimated_threads": 451,
       "name": "Bottoms",
       "pages": 23
     },
@@ -1774,9 +1774,30 @@
         3
       ]
     },
+    "ironheart:20003": {
+      "fetched_at": "2026-11-23T13:24:33Z",
+      "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:20045": {
       "fetched_at": "2026-11-23T01:55:36Z",
       "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:20204": {
+      "fetched_at": "2026-11-23T13:24:39Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:20206": {
+      "fetched_at": "2026-11-23T13:24:36Z",
+      "page_count": 2,
       "pages": [
         1
       ]
@@ -1969,11 +1990,12 @@
       ]
     },
     "ironheart:377": {
-      "fetched_at": "2026-11-23T01:55:42Z",
+      "fetched_at": "2026-11-23T13:24:45Z",
       "page_count": 350,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:3950": {
@@ -2250,10 +2272,11 @@
       ]
     },
     "ironheart:7832": {
-      "fetched_at": "2026-11-22T19:57:23Z",
+      "fetched_at": "2026-11-23T13:24:42Z",
       "page_count": 4,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:7894": {
@@ -2316,6 +2339,13 @@
         3
       ]
     },
+    "ironheart:934": {
+      "fetched_at": "2026-11-23T13:24:30Z",
+      "page_count": 231,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:950": {
       "fetched_at": "2026-11-14T01:38:04Z",
       "page_count": 14,
@@ -2374,10 +2404,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-23T01:54:48Z",
+  "recent_refreshed_at": "2026-11-23T13:23:51Z",
   "status": "ok",
   "top": {
-    "cursor": 292,
+    "cursor": 328,
     "refreshed_at": "2026-11-15T23:04:46Z"
   }
 }

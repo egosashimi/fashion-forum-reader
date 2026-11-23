@@ -1,23 +1,24 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 6,
-    "page": 31,
-    "pages_walked": 528,
+    "node_index": 7,
+    "page": 10,
+    "pages_walked": 540,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-23T01:53:20Z",
+  "last_attempt_at": "2026-11-23T13:22:22Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-23T01:54:41Z",
+    "at": "2026-11-23T13:23:44Z",
     "new_posts": 0,
-    "new_threads": 191,
+    "new_threads": 170,
     "requests": 28,
-    "updated_threads": 368
+    "updated_threads": 382
   },
-  "last_success_at": "2026-11-23T01:54:41Z",
+  "last_success_at": "2026-11-23T13:23:44Z",
   "nodes": {
     "care-preservation.14": {
+      "backfill_page": 9,
       "estimate_exact": false,
       "estimated_threads": 360,
       "name": "Care / Preservation",
@@ -78,7 +79,9 @@
       "pages": 21
     },
     "nylon.9": {
-      "backfill_page": 30,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-23T13:23:16Z",
+      "backfill_page": 33,
       "estimate_exact": false,
       "estimated_threads": 660,
       "name": "Nylon",
@@ -862,7 +865,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-23T01:54:05Z",
+  "recent_refreshed_at": "2026-11-23T13:23:07Z",
   "status": "ok",
   "top": {
     "cursor": 0,
