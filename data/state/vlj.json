@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 9,
-    "page": 31,
-    "pages_walked": 588,
+    "page": 43,
+    "pages_walked": 600,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-25T08:56:53Z",
+  "last_attempt_at": "2026-11-25T19:30:24Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-25T08:58:50Z",
-    "new_posts": 0,
-    "new_threads": 237,
-    "requests": 40,
-    "updated_threads": 566
+    "at": "2026-11-25T19:32:31Z",
+    "new_posts": 42,
+    "new_threads": 212,
+    "requests": 43,
+    "updated_threads": 597
   },
-  "last_success_at": "2026-11-25T08:58:50Z",
+  "last_success_at": "2026-11-25T19:32:31Z",
   "nodes": {
     "care-preservation.14": {
       "backfill_done": true,
@@ -99,7 +99,7 @@
       "pages": 65
     },
     "related-gear.16": {
-      "backfill_page": 30,
+      "backfill_page": 42,
       "estimate_exact": false,
       "estimated_threads": 1300,
       "name": "Related Gear",
@@ -318,6 +318,13 @@
         3
       ]
     },
+    "vlj:25736": {
+      "fetched_at": "2026-11-25T19:32:31Z",
+      "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
     "vlj:25873": {
       "fetched_at": "2026-11-10T03:44:55Z",
       "page_count": 85,
@@ -361,6 +368,13 @@
         1,
         2,
         3
+      ]
+    },
+    "vlj:26972": {
+      "fetched_at": "2026-11-25T19:32:28Z",
+      "page_count": 3,
+      "pages": [
+        1
       ]
     },
     "vlj:27174": {
@@ -873,6 +887,13 @@
         1
       ]
     },
+    "vlj:43243": {
+      "fetched_at": "2026-11-25T19:32:25Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -892,10 +913,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-25T08:57:38Z",
+  "recent_refreshed_at": "2026-11-25T19:31:10Z",
   "status": "ok",
   "top": {
-    "cursor": 48,
+    "cursor": 60,
     "refreshed_at": "2026-11-20T20:39:06Z"
   }
 }

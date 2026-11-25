@@ -8,23 +8,23 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-25T08:58:51Z",
+  "last_attempt_at": "2026-11-25T19:32:31Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-25T08:59:51Z",
-    "new_posts": 119,
-    "new_threads": 0,
+    "at": "2026-11-25T19:33:31Z",
+    "new_posts": 113,
+    "new_threads": 2,
     "requests": 21,
-    "updated_threads": 138
+    "updated_threads": 109
   },
-  "last_success_at": "2026-11-25T08:59:51Z",
+  "last_success_at": "2026-11-25T19:33:31Z",
   "nodes": {
     "10": {
       "backfill_done": true,
       "backfill_done_at": "2026-11-09T20:03:39Z",
       "backfill_page": 32,
       "estimate_exact": true,
-      "estimated_threads": 637,
+      "estimated_threads": 639,
       "name": "Shirting",
       "pages": 32
     },
@@ -600,7 +600,7 @@
       "backfill_done_at": "2026-11-14T10:48:43Z",
       "backfill_page": 22,
       "estimate_exact": true,
-      "estimated_threads": 439,
+      "estimated_threads": 440,
       "name": "General Chat",
       "pages": 22
     },
@@ -1104,7 +1104,7 @@
       "backfill_done_at": "2026-11-08T22:25:11Z",
       "backfill_page": 23,
       "estimate_exact": true,
-      "estimated_threads": 451,
+      "estimated_threads": 454,
       "name": "Bottoms",
       "pages": 23
     },
@@ -1559,6 +1559,13 @@
         1
       ]
     },
+    "ironheart:18070": {
+      "fetched_at": "2026-11-25T19:33:25Z",
+      "page_count": 16,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:18582": {
       "fetched_at": "2026-11-08T22:25:59Z",
       "page_count": 337,
@@ -1654,6 +1661,13 @@
       "pages": [
         1,
         2
+      ]
+    },
+    "ironheart:19576": {
+      "fetched_at": "2026-11-25T19:33:16Z",
+      "page_count": 1,
+      "pages": [
+        1
       ]
     },
     "ironheart:19579": {
@@ -1911,6 +1925,13 @@
         1
       ]
     },
+    "ironheart:20535": {
+      "fetched_at": "2026-11-25T19:33:31Z",
+      "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:2057": {
       "fetched_at": "2026-11-11T01:29:37Z",
       "page_count": 72,
@@ -1941,6 +1962,13 @@
         1,
         2,
         3
+      ]
+    },
+    "ironheart:2549": {
+      "fetched_at": "2026-11-25T19:33:22Z",
+      "page_count": 26,
+      "pages": [
+        1
       ]
     },
     "ironheart:2578": {
@@ -2220,6 +2248,13 @@
         3
       ]
     },
+    "ironheart:6668": {
+      "fetched_at": "2026-11-25T19:33:19Z",
+      "page_count": 50,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:67": {
       "fetched_at": "2026-11-13T02:05:50Z",
       "page_count": 290,
@@ -2410,6 +2445,13 @@
         1
       ]
     },
+    "ironheart:8415": {
+      "fetched_at": "2026-11-25T19:33:28Z",
+      "page_count": 3,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:8457": {
       "fetched_at": "2026-11-19T12:00:38Z",
       "page_count": 8,
@@ -2506,10 +2548,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-25T08:58:57Z",
+  "recent_refreshed_at": "2026-11-25T19:32:37Z",
   "status": "ok",
   "top": {
-    "cursor": 472,
+    "cursor": 502,
     "refreshed_at": "2026-11-15T23:04:46Z"
   }
 }
