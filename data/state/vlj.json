@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 9,
-    "page": 43,
-    "pages_walked": 600,
+    "page": 55,
+    "pages_walked": 612,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-25T19:30:24Z",
+  "last_attempt_at": "2026-11-26T03:41:55Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-25T19:32:31Z",
-    "new_posts": 42,
-    "new_threads": 212,
-    "requests": 43,
-    "updated_threads": 597
+    "at": "2026-11-26T03:44:04Z",
+    "new_posts": 30,
+    "new_threads": 221,
+    "requests": 44,
+    "updated_threads": 582
   },
-  "last_success_at": "2026-11-25T19:32:31Z",
+  "last_success_at": "2026-11-26T03:44:04Z",
   "nodes": {
     "care-preservation.14": {
       "backfill_done": true,
@@ -99,7 +99,7 @@
       "pages": 65
     },
     "related-gear.16": {
-      "backfill_page": 42,
+      "backfill_page": 54,
       "estimate_exact": false,
       "estimated_threads": 1300,
       "name": "Related Gear",
@@ -319,10 +319,11 @@
       ]
     },
     "vlj:25736": {
-      "fetched_at": "2026-11-25T19:32:31Z",
+      "fetched_at": "2026-11-26T03:44:04Z",
       "page_count": 2,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:25873": {
@@ -371,10 +372,11 @@
       ]
     },
     "vlj:26972": {
-      "fetched_at": "2026-11-25T19:32:28Z",
+      "fetched_at": "2026-11-26T03:44:01Z",
       "page_count": 3,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "vlj:27174": {
@@ -894,6 +896,20 @@
         1
       ]
     },
+    "vlj:43244": {
+      "fetched_at": "2026-11-26T03:43:58Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:43245": {
+      "fetched_at": "2026-11-26T03:43:55Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -913,10 +929,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-25T19:31:10Z",
+  "recent_refreshed_at": "2026-11-26T03:42:40Z",
   "status": "ok",
   "top": {
-    "cursor": 60,
+    "cursor": 72,
     "refreshed_at": "2026-11-20T20:39:06Z"
   }
 }
