@@ -1,21 +1,21 @@
 {
   "backfill": {
     "cycle": 1,
-    "node_index": 9,
-    "page": 55,
-    "pages_walked": 612,
+    "node_index": 10,
+    "page": 2,
+    "pages_walked": 624,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-26T03:41:55Z",
+  "last_attempt_at": "2026-11-26T17:10:38Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-26T03:44:04Z",
-    "new_posts": 30,
-    "new_threads": 221,
-    "requests": 44,
-    "updated_threads": 582
+    "at": "2026-11-26T17:12:42Z",
+    "new_posts": 2,
+    "new_threads": 195,
+    "requests": 42,
+    "updated_threads": 593
   },
-  "last_success_at": "2026-11-26T03:44:04Z",
+  "last_success_at": "2026-11-26T17:12:42Z",
   "nodes": {
     "care-preservation.14": {
       "backfill_done": true,
@@ -69,6 +69,7 @@
       "pages": 9
     },
     "jacket-art-patches-original-and-reproduction.29": {
+      "backfill_page": 1,
       "estimate_exact": false,
       "estimated_threads": 1840,
       "name": "Jacket Art / Patches",
@@ -99,7 +100,9 @@
       "pages": 65
     },
     "related-gear.16": {
-      "backfill_page": 54,
+      "backfill_done": true,
+      "backfill_done_at": "2026-11-26T17:12:33Z",
+      "backfill_page": 65,
       "estimate_exact": false,
       "estimated_threads": 1300,
       "name": "Related Gear",
@@ -372,11 +375,12 @@
       ]
     },
     "vlj:26972": {
-      "fetched_at": "2026-11-26T03:44:01Z",
+      "fetched_at": "2026-11-26T17:12:42Z",
       "page_count": 3,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "vlj:27174": {
@@ -910,6 +914,13 @@
         1
       ]
     },
+    "vlj:43252": {
+      "fetched_at": "2026-11-26T17:12:39Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -929,10 +940,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-26T03:42:40Z",
+  "recent_refreshed_at": "2026-11-26T17:11:24Z",
   "status": "ok",
   "top": {
-    "cursor": 72,
-    "refreshed_at": "2026-11-20T20:39:06Z"
+    "cursor": 0,
+    "refreshed_at": "2026-11-26T17:12:00Z"
   }
 }
