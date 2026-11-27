@@ -8,16 +8,16 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-27T12:54:12Z",
+  "last_attempt_at": "2026-11-27T23:40:50Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-27T12:55:12Z",
-    "new_posts": 117,
-    "new_threads": 1,
+    "at": "2026-11-27T23:41:51Z",
+    "new_posts": 120,
+    "new_threads": 0,
     "requests": 21,
-    "updated_threads": 106
+    "updated_threads": 225
   },
-  "last_success_at": "2026-11-27T12:55:12Z",
+  "last_success_at": "2026-11-27T23:41:51Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -492,7 +492,7 @@
       "backfill_done_at": "2026-11-15T16:33:59Z",
       "backfill_page": 1,
       "estimate_exact": true,
-      "estimated_threads": 8,
+      "estimated_threads": 9,
       "name": "City Guides › Japan",
       "pages": 1
     },
@@ -1419,6 +1419,13 @@
         2
       ]
     },
+    "ironheart:14554": {
+      "fetched_at": "2026-11-27T23:41:36Z",
+      "page_count": 7,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:14862": {
       "fetched_at": "2026-11-18T01:08:30Z",
       "page_count": 448,
@@ -1767,15 +1774,23 @@
       ]
     },
     "ironheart:19603": {
-      "fetched_at": "2026-11-26T17:13:33Z",
+      "fetched_at": "2026-11-27T23:41:51Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:19634": {
       "fetched_at": "2026-11-11T01:29:34Z",
+      "page_count": 2,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:19638": {
+      "fetched_at": "2026-11-27T23:41:38Z",
       "page_count": 2,
       "pages": [
         1
@@ -2258,9 +2273,23 @@
         3
       ]
     },
+    "ironheart:551": {
+      "fetched_at": "2026-11-27T23:41:45Z",
+      "page_count": 32,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:5548": {
       "fetched_at": "2026-11-12T11:39:53Z",
       "page_count": 10,
+      "pages": [
+        1
+      ]
+    },
+    "ironheart:5614": {
+      "fetched_at": "2026-11-27T23:41:42Z",
+      "page_count": 100,
       "pages": [
         1
       ]
@@ -2603,6 +2632,13 @@
         3
       ]
     },
+    "ironheart:9734": {
+      "fetched_at": "2026-11-27T23:41:47Z",
+      "page_count": 57,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:9744": {
       "fetched_at": "2026-11-21T11:33:29Z",
       "page_count": 51,
@@ -2620,10 +2656,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-27T12:54:18Z",
+  "recent_refreshed_at": "2026-11-27T23:40:56Z",
   "status": "ok",
   "top": {
-    "cursor": 644,
+    "cursor": 658,
     "refreshed_at": "2026-11-15T23:04:46Z"
   }
 }

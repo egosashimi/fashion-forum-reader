@@ -2,23 +2,23 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 649,
-    "pages_walked": 648,
+    "page": 661,
+    "pages_walked": 660,
     "started_at": "2026-11-08T17:14:01Z"
   },
-  "last_attempt_at": "2026-11-27T12:50:41Z",
+  "last_attempt_at": "2026-11-27T23:36:15Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-27T12:51:30Z",
-    "new_posts": 23,
-    "new_threads": 241,
-    "requests": 17,
-    "updated_threads": 41
+    "at": "2026-11-27T23:37:29Z",
+    "new_posts": 15,
+    "new_threads": 238,
+    "requests": 25,
+    "updated_threads": 168
   },
-  "last_success_at": "2026-11-27T12:51:30Z",
+  "last_success_at": "2026-11-27T23:37:29Z",
   "nodes": {
     "outerwear-and-workwear.4": {
-      "backfill_page": 648,
+      "backfill_page": 660,
       "estimate_exact": false,
       "estimated_threads": 17040,
       "name": "Outerwear and Workwear",
@@ -819,6 +819,20 @@
         1
       ]
     },
+    "fedoralounge:124533": {
+      "fetched_at": "2026-11-27T23:37:20Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "fedoralounge:124536": {
+      "fetched_at": "2026-11-27T23:37:23Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "fedoralounge:14096": {
       "fetched_at": "2026-11-13T19:55:29Z",
       "page_count": 86,
@@ -1041,11 +1055,12 @@
       ]
     },
     "fedoralounge:95298": {
-      "fetched_at": "2026-11-27T12:51:27Z",
+      "fetched_at": "2026-11-27T23:37:29Z",
       "page_count": 3,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "fedoralounge:96976": {
@@ -1091,12 +1106,19 @@
         2,
         3
       ]
+    },
+    "fedoralounge:99778": {
+      "fetched_at": "2026-11-27T23:37:26Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
     }
   },
-  "recent_refreshed_at": "2026-11-27T12:50:48Z",
+  "recent_refreshed_at": "2026-11-27T23:36:22Z",
   "status": "ok",
   "top": {
     "cursor": 0,
-    "refreshed_at": "2026-11-24T14:00:55Z"
+    "refreshed_at": "2026-11-27T23:36:40Z"
   }
 }
