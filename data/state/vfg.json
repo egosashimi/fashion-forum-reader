@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 0,
-    "page": 625,
-    "pages_walked": 624,
+    "page": 637,
+    "pages_walked": 636,
     "started_at": "2026-11-08T17:17:06Z"
   },
-  "last_attempt_at": "2026-11-26T17:09:35Z",
+  "last_attempt_at": "2026-11-27T01:51:33Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-26T17:10:38Z",
-    "new_posts": 8,
+    "at": "2026-11-27T01:52:33Z",
+    "new_posts": 2,
     "new_threads": 300,
-    "requests": 22,
+    "requests": 21,
     "updated_threads": 141
   },
-  "last_success_at": "2026-11-26T17:10:38Z",
+  "last_success_at": "2026-11-27T01:52:33Z",
   "nodes": {
     "public-labels-for-the-label-resource-add-here.41": {
       "estimate_exact": false,
@@ -42,7 +42,7 @@
       "pages": 202
     },
     "public-vintage-fashion-ask-questions-get-answers.39": {
-      "backfill_page": 624,
+      "backfill_page": 636,
       "estimate_exact": false,
       "estimated_threads": 16060,
       "name": "Ask Questions Get Answers",
@@ -607,6 +607,13 @@
         1
       ]
     },
+    "vfg:88375": {
+      "fetched_at": "2026-11-27T01:52:33Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vfg:9332": {
       "fetched_at": "2026-11-11T01:26:07Z",
       "page_count": 5,
@@ -626,7 +633,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-26T17:09:56Z",
+  "recent_refreshed_at": "2026-11-27T01:51:54Z",
   "status": "ok",
   "top": {
     "cursor": 0,
