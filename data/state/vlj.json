@@ -2,20 +2,20 @@
   "backfill": {
     "cycle": 1,
     "node_index": 10,
-    "page": 14,
-    "pages_walked": 636,
+    "page": 26,
+    "pages_walked": 648,
     "started_at": "2026-11-08T17:19:21Z"
   },
-  "last_attempt_at": "2026-11-27T01:52:34Z",
+  "last_attempt_at": "2026-11-27T12:52:41Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-27T01:53:55Z",
-    "new_posts": 0,
-    "new_threads": 236,
-    "requests": 28,
-    "updated_threads": 323
+    "at": "2026-11-27T12:54:11Z",
+    "new_posts": 18,
+    "new_threads": 237,
+    "requests": 31,
+    "updated_threads": 322
   },
-  "last_success_at": "2026-11-27T01:53:55Z",
+  "last_success_at": "2026-11-27T12:54:11Z",
   "nodes": {
     "care-preservation.14": {
       "backfill_done": true,
@@ -69,7 +69,7 @@
       "pages": 9
     },
     "jacket-art-patches-original-and-reproduction.29": {
-      "backfill_page": 13,
+      "backfill_page": 25,
       "estimate_exact": false,
       "estimated_threads": 1840,
       "name": "Jacket Art / Patches",
@@ -403,6 +403,13 @@
     },
     "vlj:28693": {
       "fetched_at": "2026-11-17T16:21:19Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:29871": {
+      "fetched_at": "2026-11-27T12:54:08Z",
       "page_count": 1,
       "pages": [
         1
@@ -921,6 +928,20 @@
         1
       ]
     },
+    "vlj:43259": {
+      "fetched_at": "2026-11-27T12:54:05Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
+    "vlj:43260": {
+      "fetched_at": "2026-11-27T12:54:11Z",
+      "page_count": 1,
+      "pages": [
+        1
+      ]
+    },
     "vlj:6885": {
       "fetched_at": "2026-11-14T22:43:55Z",
       "page_count": 25,
@@ -940,7 +961,7 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-27T01:53:19Z",
+  "recent_refreshed_at": "2026-11-27T12:53:26Z",
   "status": "ok",
   "top": {
     "cursor": 0,
