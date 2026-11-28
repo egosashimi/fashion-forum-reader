@@ -8,16 +8,16 @@
     "pages_walked": 345,
     "started_at": "2026-11-08T17:20:57Z"
   },
-  "last_attempt_at": "2026-11-28T08:13:51Z",
+  "last_attempt_at": "2026-11-28T17:44:14Z",
   "last_error": null,
   "last_run": {
-    "at": "2026-11-28T08:14:51Z",
+    "at": "2026-11-28T17:45:14Z",
     "new_posts": 120,
     "new_threads": 0,
     "requests": 21,
-    "updated_threads": 251
+    "updated_threads": 222
   },
-  "last_success_at": "2026-11-28T08:14:51Z",
+  "last_success_at": "2026-11-28T17:45:14Z",
   "nodes": {
     "10": {
       "backfill_done": true,
@@ -1388,6 +1388,13 @@
         3
       ]
     },
+    "ironheart:13710": {
+      "fetched_at": "2026-11-28T17:45:08Z",
+      "page_count": 41,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:13769": {
       "fetched_at": "2026-11-19T12:00:53Z",
       "page_count": 1,
@@ -1854,11 +1861,12 @@
       ]
     },
     "ironheart:19725": {
-      "fetched_at": "2026-11-15T06:58:05Z",
+      "fetched_at": "2026-11-28T17:45:14Z",
       "page_count": 4,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:19814": {
@@ -2013,6 +2021,13 @@
         3
       ]
     },
+    "ironheart:21": {
+      "fetched_at": "2026-11-28T17:45:02Z",
+      "page_count": 55,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:217": {
       "fetched_at": "2026-11-27T01:54:41Z",
       "page_count": 112,
@@ -2070,10 +2085,11 @@
       ]
     },
     "ironheart:262": {
-      "fetched_at": "2026-11-22T11:48:13Z",
+      "fetched_at": "2026-11-28T17:45:05Z",
       "page_count": 138,
       "pages": [
-        1
+        1,
+        2
       ]
     },
     "ironheart:2846": {
@@ -2085,11 +2101,12 @@
       ]
     },
     "ironheart:30": {
-      "fetched_at": "2026-11-27T01:54:53Z",
+      "fetched_at": "2026-11-28T17:45:11Z",
       "page_count": 241,
       "pages": [
         1,
-        2
+        2,
+        3
       ]
     },
     "ironheart:3112": {
@@ -2476,6 +2493,13 @@
         1
       ]
     },
+    "ironheart:763": {
+      "fetched_at": "2026-11-28T17:44:59Z",
+      "page_count": 62,
+      "pages": [
+        1
+      ]
+    },
     "ironheart:7633": {
       "fetched_at": "2026-11-19T02:46:14Z",
       "page_count": 3,
@@ -2692,10 +2716,10 @@
       ]
     }
   },
-  "recent_refreshed_at": "2026-11-28T08:13:57Z",
+  "recent_refreshed_at": "2026-11-28T17:44:20Z",
   "status": "ok",
   "top": {
-    "cursor": 670,
+    "cursor": 682,
     "refreshed_at": "2026-11-15T23:04:46Z"
   }
 }
